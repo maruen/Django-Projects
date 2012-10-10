@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37/trunk/src/djangobrasil/apps/aggregator/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/37/trunk/src/djangobrasil/apps/aggregator/templatetags/__init__.py
+END
+aggregator.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/37/trunk/src/djangobrasil/apps/aggregator/templatetags/aggregator.py
+END

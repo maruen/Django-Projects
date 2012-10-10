@@ -1,0 +1,11 @@
+{% extends "base_casos.html" %}
+
+{% block title %}{{ flatpage.title }}{% endblock %}
+
+{% block content-main %}
+<div class="limite">
+    <h1>{{ flatpage.title }}</h1>
+    
+    {{ flatpage.content }}
+</div>
+{% endblock %}

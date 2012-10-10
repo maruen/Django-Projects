@@ -1,0 +1,59 @@
+/*
+ *  Copyright (c) 2007, 2008 The Django Brasil Community Website Authors
+ *
+ *  This file is part of Django Brasil Project Site.
+ *
+ *  Django Brasil Project is free software; you can redistribute it
+ *  and/or modify it under the terms of the GNU General Public License
+ *  as published by the Free Software Foundation; either version 3 of
+ *  the License, or (at your option) any later version.
+ *
+ *  Django Brasil Project is distributed in the hope that it will be
+ *  useful, but WITHOUT ANY WARRANTY; without even the implied warranty
+ *  of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program. If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
+
+@import "base.css";
+@import "formulario.css";
+
+#principal form {
+    width: 100%;
+    padding: 0;
+}
+form ul, form li {
+    margin: 0;
+    padding: 0;
+    background: none;
+}
+form li {
+    width: 50%;
+    float: left;
+}
+form li.wide { width: 100%; }
+#principal input { width: 93%; }
+#principal textarea { width: 98%; }
+
+#lateral legend { display: none; }
+
+
+#principal h3.enviado {
+    line-height: 1em;
+    margin: 0 5px 15px;
+    padding: 0;
+    border: 1px solid #7DAE59;
+    background-color: #7DAE59;
+}
+
+.enviado strong {
+    color: #FFF;
+    line-height: 30px;
+    display: block;
+    padding: 0 8px;
+}
+

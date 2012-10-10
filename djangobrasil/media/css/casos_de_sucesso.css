@@ -1,0 +1,65 @@
+/*
+ *  Copyright (c) 2008 The Django Brasil Community Website Authors
+ *
+ *  This file is part of Django Brasil Project Site.
+ *
+ *  Django Brasil Project is free software; you can redistribute it
+ *  and/or modify it under the terms of the GNU General Public License
+ *  as published by the Free Software Foundation; either version 3 of
+ *  the License, or (at your option) any later version.
+ *
+ *  Django Brasil Project is distributed in the hope that it will be
+ *  useful, but WITHOUT ANY WARRANTY; without even the implied warranty
+ *  of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program. If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
+
+@import "base.css";
+
+dd {margin-left: 10px;}
+
+div.boxes {
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+div.box {
+    float: left;
+    width: 240px;
+    height: 170px;
+    margin: 10px 0 0 10px;
+    padding: 10px;
+    border: 1px dashed gray;
+}
+
+div.box a {
+    font-weight: normal !important;
+    text-decoration: none !important;
+}
+
+div.box a:hover {
+    text-decoration: underline !important;
+}
+
+div.box a img {
+    border: none;
+}
+
+* html div.box {
+    width: 260px;
+}
+
+div.box img.logo {
+    float: right;
+    margin: 0 0 5px 5px;
+}
+
+img.ilustracao {
+    margin: 5px;
+}
+

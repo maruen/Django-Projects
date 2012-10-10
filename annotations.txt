@@ -1,0 +1,26 @@
+
+DJANGO
+
+1) Create a new Project: 
+	django-admin.py startproject mysite
+
+2) Run Server:
+	python manage.py runserver
+
+3) To show off your work on other computers:
+	python manage.py runserver 0.0.0.0:8000
+
+4) Create an app inside a project:
+	python manage.py startapp polls
+
+5) Generate Sql for polls app 
+	python manage.py sql polls
+
+6) To commit to the database the model.py
+	python manage.py syncdb
+
+
+GIT
+
+
+

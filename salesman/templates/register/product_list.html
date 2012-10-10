@@ -1,0 +1,67 @@
+
+<html>
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+      <link href="{{ MEDIA_URL }}css/style.css" rel="stylesheet" type="text/css" />
+      <script language="javascript" src="{{ MEDIA_URL }}js/function.js" type="text/javascript"></script>
+   </head>
+
+   <body>
+      <div id="main">
+         <div id="header">
+
+         </div>
+
+         <div id="mainbody">
+            <div class="mainbodytop">
+   
+               <div class="bodytopline">
+                  <div class="image"><img src="media/images/bodytopcuve01.png" alt="" /></div>
+                  <div class="bodytopline_gred">Leilões em andamento</div>
+                  <div class="image"><img src="media/images/bodycuve02.png" alt="" /></div>
+               </div>
+      
+               {% if object_list %}
+               <div class="bodytopmid">
+                  {% for obj in object_list %}
+                  <div class="auction-item" title="{{ obj.id }}" id="auction_{{ obj.id }}"></div>
+                     <div class="topbidboxmain">
+                        <div class="topbidboxmain_bg">
+                           
+                           <!-- Product Name-->
+                           <div id="bidmaintitalmidtext">
+                              <a href="test0.html" class="linkbidtital">{{ obj.name }}</a>
+                           </div>
+                           
+                           <!-- Product Picture -->
+                           <div class="bidtitalmidtext2">
+                              <div class="bidimage_bg">
+                                 <a href="{{ MEDIA_URL }}/{{obj.pictureURL }}"><img src="media/{{ obj.pictureURL }}" width="120" height="90" alt="" /></a>
+                            </div>
+                            
+                            <!-- Timer 
+                            <div class="toptimer" id="bidtitalmidtext">
+                               <span id="counter_index_page_{{ obj.id }}" >
+                                 <script language='javascript' type='text/javascript'>
+                                     document.getElementById('counter_index_page_{{ obj.id }}').innerHTML = calc_counter_from_time('8363');
+                                  </script>
+                               </span>
+                           </div>
+                           -->
+
+                        </div>
+                     </div>
+                  </div>
+                  {% endfor %}
+               </div>
+               <div class="image"><img src="media/images/bodybotcuve.png" alt="" /></div>
+            {% endif %} 
+            </div>
+         </div>
+   
+      </div>
+   </body>
+
+<html>
+
+

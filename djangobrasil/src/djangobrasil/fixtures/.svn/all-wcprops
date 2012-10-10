@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/167/trunk/src/djangobrasil/fixtures
+END
+sites.json
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/112/trunk/src/djangobrasil/fixtures/sites.json
+END
+aggregator.json
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/44/trunk/src/djangobrasil/fixtures/aggregator.json
+END
+blog.json
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/44/trunk/src/djangobrasil/fixtures/blog.json
+END
+redirects.json
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/44/trunk/src/djangobrasil/fixtures/redirects.json
+END
+comments.json
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/113/trunk/src/djangobrasil/fixtures/comments.json
+END
+flatpages.json
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/167/trunk/src/djangobrasil/fixtures/flatpages.json
+END

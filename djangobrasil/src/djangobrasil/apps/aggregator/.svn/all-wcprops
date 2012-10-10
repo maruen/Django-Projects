@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/227/trunk/src/djangobrasil/apps/aggregator
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/84/trunk/src/djangobrasil/apps/aggregator/admin.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/37/trunk/src/djangobrasil/apps/aggregator/LICENSE
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/37/trunk/src/djangobrasil/apps/aggregator/__init__.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/227/trunk/src/djangobrasil/apps/aggregator/models.py
+END
+feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/37/trunk/src/djangobrasil/apps/aggregator/feeds.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/227/trunk/src/djangobrasil/apps/aggregator/bin
+END
+mark_defunct_feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/37/trunk/src/djangobrasil/apps/aggregator/bin/mark_defunct_feeds.py
+END
+update_feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/227/trunk/src/djangobrasil/apps/aggregator/bin/update_feeds.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/150/trunk/src/djangobrasil/apps/blog/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/37/trunk/src/djangobrasil/apps/blog/templatetags/__init__.py
+END
+blog_tags.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/150/trunk/src/djangobrasil/apps/blog/templatetags/blog_tags.py
+END

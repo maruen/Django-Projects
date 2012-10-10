@@ -1,0 +1,395 @@
+/*
+ *  Copyright (c) 2007, 2008 The Django Brasil Community Website Authors
+ *
+ *  This file is part of Django Brasil Project Site.
+ *
+ *  Django Brasil Project is free software; you can redistribute it
+ *  and/or modify it under the terms of the GNU General Public License
+ *  as published by the Free Software Foundation; either version 3 of
+ *  the License, or (at your option) any later version.
+ *
+ *  Django Brasil Project is distributed in the hope that it will be
+ *  useful, but WITHOUT ANY WARRANTY; without even the implied warranty
+ *  of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with this program. If not, see <http://www.gnu.org/licenses/>.
+ *
+ */
+
+/********************
+Estilizaçoes gerais
+********************/
+* {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #555;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-decoration: none;
+}
+
+body {
+	min-width: 755px;
+	background: url(../images/rodape.png) repeat-x bottom;
+}
+
+#wrap {
+    position: relative;
+    clear: both;
+    float: left;
+    width: 100%;
+    overflow: hidden;
+    background: #e5e5e5;
+	background: #E5E5E5 url(../images/lateral-bottom.png) repeat-x bottom;
+}
+
+#wrap2 {
+/*    right: 25%;*/
+    background: white;
+}
+
+#conteudo, #lateral, #principal, #info {
+    float: left;
+    position: relative;
+    padding: 0; /* 0 1em 0*/
+    overflow: hidden;
+    width: 100%;
+}
+
+#conteudo {
+    width: 70%;
+    right: 30%;
+    background: #f2f2f2 url(../images/info-bottom.png) repeat-x bottom;
+}
+
+#lateral {
+    width: 30%;
+    left: 70%;
+}
+
+#lateral .limite {
+	min-height: 120px;
+	padding: 10px 15px;
+	background: url(../images/lateral-top.png) repeat-x top;
+}
+
+#principal {
+    background: white url(../images/principal-bottom.png) repeat-x bottom;
+}
+
+#principal .limite {
+	padding: 0 30px 20px;*/
+	border-right:1px dashed #CCC;
+	background: url(../images/principal-top.png) repeat-x top;
+}
+
+* html #lateral .limite { height: 120px; }
+/* Fim: Containers */
+
+input[type=hidden] { display: none; }
+
+hr, .hidden { display: none; }
+
+input[type=hidden] { display: none !important; }
+
+option { padding: 0 5px; }
+/********************
+Fim das estilizaçoes gerais
+********************/
+
+
+/********************
+Cabeçalho
+********************/
+#cabecalho {
+	height: 62px;
+	padding: 22px 15px 0;
+	border-top: 4px solid #076944;
+	border-bottom: 1px solid #FFF;
+	background: #EBEBEB url(../images/cabecalho.png) repeat-x top;
+}
+
+#cabecalho h1 {
+	float: left;
+	width: 202px;
+	height: 44px;
+}
+
+#cabecalho h1 a {
+	text-indent: -9999px;
+	display: block;
+	height: 100%;
+	background: url(../images/djangobrasil.png) no-repeat;
+}
+
+#cabecalho ul {
+	float: right;
+	height: 30px;
+	padding: 5px 0 0;
+}
+
+#cabecalho li {
+	float: left;
+	padding: 0;
+	padding-left: 3px;
+	background: none;
+}
+
+#cabecalho li a {
+	display: block;
+	padding-left: 7px;
+}
+
+#cabecalho li a span {
+	color: #3B3B3B;
+	font-weight: bold;
+	display: block;
+	padding: 7px;
+	padding-left: 0;
+}
+
+#cabecalho li a:hover, #cabecalho li a.selected { background: #0B7D52 url(../images/item-menu-left.gif) no-repeat left; }
+
+#cabecalho li a:hover span, #cabecalho li a.selected span {
+	color: #FFF;
+	background: url(../images/item-menu-right.gif) no-repeat right;
+}
+
+#homepage #nav-homepage a, #download #nav-download a, #docs #nav-docs a, #weblog #nav-weblog a,  #comunidade #nav-comunidade a, #contato #nav-contato a { 
+        background: #0B7D52 url(../images/item-menu-left.gif) no-repeat left; 
+}
+
+#homepage #nav-homepage a span, #download #nav-download a span, #docs #nav-docs a span, #weblog #nav-weblog a span, #comunidade #nav-comunidade a span, #contato #nav-contato a span { 
+	color: #FFF;
+	background: url(../images/item-menu-right.gif) no-repeat right;        
+}
+/********************
+Fim: Cabeçalho
+********************/
+
+
+/********************
+Chamada
+********************/
+#chamada {
+	height: 71px;
+	margin-bottom: 1px;
+	padding: 0 15px;
+	border: 2px solid #098556;
+	border-width: 2px 0;
+	background: #076944 url(../images/chamada.png) repeat-x;
+}
+
+#chamada * { color: #F5F5F5; }
+
+#chamada h2 {
+	font-size: 1.7em;
+	font-style: italic;
+	font-weight: bolder;
+	line-height: 71px;
+	padding: 0;
+	margin: 0;
+	border: none;
+}
+/********************
+Fim: Chamada
+********************/
+
+
+/********************
+Fim: Conteúdo
+********************/
+/* Títulos */
+h1, h2, h3, h4, h5, h6 {
+	font-family: Trebuchet MS, Tahoma, Helvetica, sans-serif;
+	line-height: 1.2em;
+}
+h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
+	font-family: Trebuchet MS, Tahoma, Helvetica, sans-serif;
+	font-size: 1em;
+	color: inherit;
+	font-weight: inherit;
+	text-decoration: none !important;
+}
+h1, h2, h3 {
+	color: #000;
+	font-weight: normal;
+}
+h1 a, h2 a, h3 a { color: #000 !important; }
+h4, h5, h6 {
+	color: #0B7F53;
+	margin-bottom: 7px;
+}
+h4 a, h5 a, h6 a { color: #0B7F53 !important; }
+#lateral h4, #lateral h5, #lateral h6 { color: #333; }
+#wrap h1, h2 {
+	font-size: 2em;
+	margin-bottom: 15px;
+	padding: 15px 0 3px;
+	border-bottom: 1px solid;
+}
+h3 {
+	font-size: 1.4em;
+	margin-bottom: 7px;
+}
+h4 { font-size: 1.2em; }
+/* Fim: títulos */
+
+/* Links */
+#wrap a {
+	color: #076944;
+	text-decoration: underline;
+}
+#wrap a:link { font-weight: bold; }
+#wrap a:visited { font-weight: normal; }
+#wrap a:hover { text-decoration: none; }
+#wrap a[rel=external] {
+	padding-right: 10px;
+	background: url(../images/external.gif) no-repeat 100% 5px;
+}
+#wrap a[hreflang]:after { content: " [" attr(hreflang) "]"; }
+/* Fim: links */
+
+/* Listas */
+ul, ol, dl { margin-bottom: 15px; }
+*+html ul, *+html ol { min-height: 1px; }
+#conteudo ul, #conteudo dl { padding: 7px 10px 0; }
+#conteudo ol { padding: 7px 10px 0 30px; }
+li, dt { margin-bottom: 5px; }
+ul li {
+	padding-left: 10px;
+	background: url(../images/green-dot.gif) no-repeat 0 6px;
+}
+ul li ul { padding: 5px 20px 0; }
+ul li li {
+	list-style: disc outside;
+	padding: 0;
+	background: none;
+}
+ol li { list-style: decimal outside; }
+/* Fim; listas */
+
+/* Códigos */
+pre, code, tt {
+	font-family: Courier New, Courier, monospace;
+	background-color: #E6F0EC;
+	overflow: auto;
+}
+tt {
+	color: #076944;
+	background: none;
+}
+pre {
+	line-height: 1.4em;
+	display: block;
+	margin-bottom: 15px;
+	padding: 7px 10px;
+	border: solid #C5DCD3;
+	border-width: 1px 0;
+}
+p code { padding: 0 5px; }
+/* Fim: Códigos */
+
+/* Formulários */
+form { margin-bottom: 15px; }
+fieldset { border: none; }
+legend {
+	color: #000;
+	font: bold 1.2em Trebuchet MS, Tahoma, Helvetica, sans-serif;
+	margin-bottom: 5px;
+}
+* html legend, * + html legend { text-indent: -2px }
+input {
+	width: 60%;
+	margin-right: 7px;
+	padding: 2px 5px;
+	border: 1px solid #AAA;
+}
+input:focus { border-color: #076944; }
+button {
+	color: #000;
+	padding: 0 5px;
+}
+/* Fim: formulários */
+
+p, dd {
+	line-height: 1.4em;
+	text-align: justify;
+	margin-bottom: 12px;
+}
+/********************
+Fim: Conteúdo
+********************/
+
+
+/********************
+Rodape
+********************/
+#rodape {
+	position: relative;
+	clear: both;
+	padding-top: 31px;
+	border-top: 1px solid #FFF;
+	background: url(../images/rodape-right.png) no-repeat right bottom;
+}
+
+#rodape ul {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	padding: 5px 0;
+	background: #4A4A4A url(../images/acessibilidade-rodape.png) repeat-x top;
+}
+
+#rodape li {
+	float: right;
+	padding: 0 15px;
+	background: none;
+}
+
+#rodape li a {
+	font-size: 0.85em;
+	padding-left: 10px;
+	background: url(../images/to-top.gif) no-repeat 0 3px;
+}
+
+#rodape li a:link, #rodape li a:visited {
+	font-weight: normal;
+	text-decoration: none;
+}
+
+#rodape li a:hover { text-decoration: underline; }
+
+#rodape p {
+	font-size: 0.85em;
+	color: #FFF;
+	text-align: center;
+	height: 41px;
+	margin: 0;
+	padding-top: 24px;
+	background: url(../images/rodape-left.png) no-repeat left;
+}
+
+#rodape a {
+	color: #FFC757;
+	font-size: 1em;
+}
+
+#rodape a:link {
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#rodape a:visited {
+	font-weight: normal;
+	text-decoration: underline;
+}
+
+#rodape a:hover { text-decoration: none; }
+/********************
+Fim: Rodape
+********************/

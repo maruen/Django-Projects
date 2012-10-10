@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/143/trunk/djangoplus/widgets
+END
+raw_id_widget.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/40/trunk/djangoplus/widgets/raw_id_widget.py
+END
+dropdown_multi_widget.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/40/trunk/djangoplus/widgets/dropdown_multi_widget.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/34/trunk/djangoplus/widgets/__init__.py
+END
+jquery_auto_complete.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/140/trunk/djangoplus/widgets/jquery_auto_complete.py
+END
+ajax_m2m_widget.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/40/trunk/djangoplus/widgets/ajax_m2m_widget.py
+END
+ajax_fk_widget.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/143/trunk/djangoplus/widgets/ajax_fk_widget.py
+END

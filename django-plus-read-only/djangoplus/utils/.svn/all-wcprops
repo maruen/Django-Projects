@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/133/trunk/djangoplus/utils
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/133/trunk/djangoplus/utils/__init__.py
+END
+message_exception.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/54/trunk/djangoplus/utils/message_exception.py
+END
+gmap_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/103/trunk/djangoplus/utils/gmap_utils.py
+END
+decorators.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/120/trunk/djangoplus/utils/decorators.py
+END

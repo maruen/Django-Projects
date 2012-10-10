@@ -1,0 +1,34 @@
+{% load gravatar %}
+{% load events_tags %}
+{% load profile_tags %}
+<div class="event_container{% if event_num %} event_num_{{ event_num }}{% endif %}">
+    <div class="grid_10 alpha event">
+        {% person event.creator %}
+        <span class="description_{{ event.description_size }}">{{ event.description }}</span>
+    </div>
+    <div class="grid_1 person_count">
+        <a href="{% url ev_event event.id %}">
+            {% with event.attendees.count as ac %}
+            <span class="number">{{ ac }}</span> <span class="label">P{{ ac|pluralize:"erson,eople" }}</span>
+            {% endwith %}
+        </a>
+    </div>
+    {% if event.today %}
+        <div class="grid_1 omega">
+            {% if authenticated %}
+                <form method="POST" id="toggle_attendance_form_{{ event_num }}" class="toggle_attendance_form" action="{% url ev_toggle_attendance %}">
+                    <input type="hidden" name="next" value="{% if next %}{{ next }}{% else %}{{ request.path }}{% endif %}" />
+                    <input type="hidden" name="event_id" value="{{ event.id }}" />
+                    {% if attending %}
+                        <input class="attendance unattend" type="submit" value="&#10003;" />
+                    {% else %}
+                        <input class="attendance attend" type="submit" value="+" />
+                    {% endif %}
+                </form>
+            {% else %}
+                <p class="login_to_attend"><span><a href="{% url auth_login %}">Login</a> to Attend</span></p>
+            {% endif %}
+        </div>
+    {% endif %}
+    <div class="clear"></div>
+</div>

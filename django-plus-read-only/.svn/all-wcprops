@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/144/trunk
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/71/trunk/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/60/trunk/AUTHORS
+END
+ez_setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/71/trunk/ez_setup.py
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/123/trunk/setup.py
+END
+pypi_register.sh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/71/trunk/pypi_register.sh
+END
+pypi_upload.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/71/trunk/pypi_upload.sh
+END

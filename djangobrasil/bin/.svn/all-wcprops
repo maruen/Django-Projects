@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/198/trunk/bin
+END
+update-feeds.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/198/trunk/bin/update-feeds.sh
+END
+domain-exp-notify.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/153/trunk/bin/domain-exp-notify.sh
+END
+update-docs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/172/trunk/bin/update-docs.sh
+END
+update-site.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/153/trunk/bin/update-site.sh
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/233/trunk/src/djangobrasil/templates
+END
+base_download.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/233/trunk/src/djangobrasil/templates/base_download.html
+END
+base_docs.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/base_docs.html
+END
+base_casos.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/base_casos.html
+END
+base_comunidade.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/base_comunidade.html
+END
+500.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/500.html
+END
+404.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/404.html
+END
+base_2col.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/base_2col.html
+END
+base_weblog.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/base_weblog.html
+END
+base_3col.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/base_3col.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/230/trunk/src/djangobrasil/templates/base.html
+END

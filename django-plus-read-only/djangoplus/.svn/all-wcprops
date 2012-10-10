@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/144/trunk/djangoplus
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/86/trunk/djangoplus/admin.py
+END
+admin_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/141/trunk/djangoplus/admin_utils.py
+END
+model_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/144/trunk/djangoplus/model_info.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/144/trunk/djangoplus/__init__.py
+END
+test_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/131/trunk/djangoplus/test_utils.py
+END
+cross_table.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/135/trunk/djangoplus/cross_table.py
+END
+app_settings.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/134/trunk/djangoplus/app_settings.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/138/trunk/djangoplus/models.py
+END

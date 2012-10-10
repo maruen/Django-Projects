@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% load events_tags %}
+{% load profile_tags %}
+
+{% block title %}{{ event.description }} - {{ block.super }}{% endblock %}
+
+{% block main_content %}
+    <h2 id="event_title">Event</h2>
+    <p id="going_question">going?</p>
+    <div class="clear"></div>
+    {% event event 1 %}
+    <h2 id="attendees_title">Attendees</h2>
+    {% with event.attendees.all as attendees %}
+        {% ifequal attendees.count 0 %}
+            <p class="info">No attendees listed</p>
+        {% else %}
+            {% for person in event.attendees.all %}
+                {% person person %}
+            {% endfor %}
+        {% endifequal %}
+    {% endwith %}
+{% endblock %}

@@ -1,0 +1,34 @@
+{% extends "base.html" %}
+
+{% block accesslink %}
+<ul class="hidden">
+    <li><a href="#conteudo">Pular para o conteúdo</a></li>
+    <li><a href="#info">Pular para informações adicionais</a></li>
+    <li><a href="#info">Informações extra</a></li>
+</ul>
+{% endblock %}
+
+{% block wrap %}
+<div class="wrap2">
+  <div id="lateral">
+    {% block content-related %}{% endblock %}
+  </div>
+
+  <div id="conteudo" class="clearfix">
+    {% block content %}
+    <div id="info">
+	{% block content-extra %}{% endblock %}
+    </div>
+
+    <div id="principal">
+	{% block content-main %}{% endblock %}
+    </div>
+    
+    <!--<hr />-->    
+    {% endblock %}
+  </div>
+
+  <!--<hr />-->
+</div>
+
+{% endblock %}

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/feeds
+END
+weblog_title.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/feeds/weblog_title.html
+END
+weblog_description.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/feeds/weblog_description.html
+END
+comments_title.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/feeds/comments_title.html
+END
+comments_description.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/feeds/comments_description.html
+END
+comunidade_title.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/feeds/comunidade_title.html
+END
+comunidade_description.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/170/trunk/src/djangobrasil/templates/feeds/comunidade_description.html
+END

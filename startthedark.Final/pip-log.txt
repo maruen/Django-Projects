@@ -1,0 +1,1839 @@
+Downloading/unpacking django-pagination
+  Getting page http://pypi.python.org/simple/django-pagination
+  URLs to search for versions for django-pagination:
+  * http://pypi.python.org/simple/django-pagination
+  Getting page http://django-pagination.googlecode.com/
+  Analyzing links from page http://pypi.python.org/simple/django-pagination/
+    Found link http://pypi.python.org/packages/source/d/django-pagination/django-pagination-1.0.4.tar.gz#md5=10f09fd25a5f330ce358922286225e60 (from http://pypi.python.org/simple/django-pagination/), version: 1.0.4
+    Found link http://pypi.python.org/packages/source/d/django-pagination/django-pagination-1.0.5.tar.gz#md5=7c5d5d017c83685065d864565089cc35 (from http://pypi.python.org/simple/django-pagination/), version: 1.0.5
+    Skipping link http://django-pagination.googlecode.com/ (from http://pypi.python.org/simple/django-pagination/); not a file
+  Analyzing links from page http://code.google.com/p/django-pagination/
+    Skipping link http://www.gstatic.com/codesite/ph/images/phosting.ico (from http://code.google.com/p/django-pagination/); unknown archive format: .ico
+    Skipping link http://www.gstatic.com/codesite/ph/6842546122464886851/css/ph_core.css (from http://code.google.com/p/django-pagination/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/6842546122464886851/css/ph_detail.css (from http://code.google.com/p/django-pagination/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/6842546122464886851/css/d_ie.css (from http://code.google.com/p/django-pagination/); unknown archive format: .css
+    Skipping link http://code.google.com/p/django-pagination/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link https://www.google.com/accounts/ServiceLogin?service=code&amp;ltmpl=phosting&amp;continue=http%3A%2F%2Fcode.google.com%2Fp%2Fdjango-pagination%2F&amp;followup=http%3A%2F%2Fcode.google.com%2Fp%2Fdjango-pagination%2F (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://www.firefox.com (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://www.google.com/chrome (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/downloads/list (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/w/list (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/issues/list (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/source/checkout (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/updates/list (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/people/list (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://www.opensource.org/licenses/bsd-license.php (from http://code.google.com/p/django-pagination/); unknown archive format: .php
+    Skipping link http://code.google.com/hosting/search?q=label:django (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:python (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:pagination (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:templatetags (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:template (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:templatetag (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:digg (from http://code.google.com/p/django-pagination/); not a file
+    Found link http://django-pagination.googlecode.com/files/django-pagination-1.0.5.tar.gz (from http://code.google.com/p/django-pagination/), version: 1.0.5
+    Skipping link http://code.google.com/p/django-pagination/feeds (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/u/floguy/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/u/jtauber/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/u/leidel/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://eflorenzano.com/blog/post/first-two-django-screencasts/#using-django-pagination (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/projecthosting/terms.html (from http://code.google.com/p/django-pagination/); unknown archive format: .html
+    Skipping link http://www.google.com/privacy.html (from http://code.google.com/p/django-pagination/); unknown archive format: .html
+    Skipping link http://code.google.com/more/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/support/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/ (from http://code.google.com/p/django-pagination/); not a file
+  Analyzing links from page http://code.google.com/p/django-pagination/
+    Skipping link http://www.gstatic.com/codesite/ph/images/phosting.ico (from http://code.google.com/p/django-pagination/); unknown archive format: .ico
+    Skipping link http://www.gstatic.com/codesite/ph/6842546122464886851/css/ph_core.css (from http://code.google.com/p/django-pagination/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/6842546122464886851/css/ph_detail.css (from http://code.google.com/p/django-pagination/); unknown archive format: .css
+    Skipping link http://www.gstatic.com/codesite/ph/6842546122464886851/css/d_ie.css (from http://code.google.com/p/django-pagination/); unknown archive format: .css
+    Skipping link http://code.google.com/p/django-pagination/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link https://www.google.com/accounts/ServiceLogin?service=code&amp;ltmpl=phosting&amp;continue=http%3A%2F%2Fcode.google.com%2Fp%2Fdjango-pagination%2F&amp;followup=http%3A%2F%2Fcode.google.com%2Fp%2Fdjango-pagination%2F (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://www.firefox.com (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://www.google.com/chrome (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/downloads/list (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/w/list (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/issues/list (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/source/checkout (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/updates/list (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/django-pagination/people/list (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://www.opensource.org/licenses/bsd-license.php (from http://code.google.com/p/django-pagination/); unknown archive format: .php
+    Skipping link http://code.google.com/hosting/search?q=label:django (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:python (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:pagination (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:templatetags (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:template (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:templatetag (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/search?q=label:digg (from http://code.google.com/p/django-pagination/); not a file
+    Found link http://django-pagination.googlecode.com/files/django-pagination-1.0.5.tar.gz (from http://code.google.com/p/django-pagination/), version: 1.0.5
+    Skipping link http://code.google.com/p/django-pagination/feeds (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/u/floguy/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/u/jtauber/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/u/leidel/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://eflorenzano.com/blog/post/first-two-django-screencasts/#using-django-pagination (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/projecthosting/terms.html (from http://code.google.com/p/django-pagination/); unknown archive format: .html
+    Skipping link http://www.google.com/privacy.html (from http://code.google.com/p/django-pagination/); unknown archive format: .html
+    Skipping link http://code.google.com/more/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/p/support/ (from http://code.google.com/p/django-pagination/); not a file
+    Skipping link http://code.google.com/hosting/ (from http://code.google.com/p/django-pagination/); not a file
+  Using version 1.0.5 (newest of versions: 1.0.5, 1.0.5, 1.0.5, 1.0.4)
+  Downloading django-pagination-1.0.5.tar.gz
+  Downloading from URL http://pypi.python.org/packages/source/d/django-pagination/django-pagination-1.0.5.tar.gz#md5=7c5d5d017c83685065d864565089cc35 (from http://pypi.python.org/simple/django-pagination/)
+  Running setup.py egg_info for package django-pagination
+    running egg_info
+    creating pip-egg-info/django_pagination.egg-info
+    writing requirements to pip-egg-info/django_pagination.egg-info/requires.txt
+    writing pip-egg-info/django_pagination.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/django_pagination.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/django_pagination.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/django_pagination.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/django_pagination.egg-info/SOURCES.txt'
+    writing manifest file 'pip-egg-info/django_pagination.egg-info/SOURCES.txt'
+  Source in ./build/django-pagination has version 1.0.5, which satisfies requirement django-pagination
+Requirement already satisfied: setuptools in /usr/lib/python2.6/dist-packages (from django-pagination)
+Installing collected packages: django-pagination, setuptools
+  Running setup.py install for django-pagination
+    Running command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/django-pagination/setup.py'; execfile('/home/maruen/Projects/startthedark/build/django-pagination/setup.py')" install --single-version-externally-managed --record /tmp/pip-UdN1x8-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-i686-2.6
+    creating build/lib.linux-i686-2.6/pagination
+    copying pagination/models.py -> build/lib.linux-i686-2.6/pagination
+    copying pagination/__init__.py -> build/lib.linux-i686-2.6/pagination
+    copying pagination/tests.py -> build/lib.linux-i686-2.6/pagination
+    copying pagination/middleware.py -> build/lib.linux-i686-2.6/pagination
+    creating build/lib.linux-i686-2.6/pagination/templatetags
+    copying pagination/templatetags/__init__.py -> build/lib.linux-i686-2.6/pagination/templatetags
+    copying pagination/templatetags/pagination_tags.py -> build/lib.linux-i686-2.6/pagination/templatetags
+    running egg_info
+    writing requirements to django_pagination.egg-info/requires.txt
+    writing django_pagination.egg-info/PKG-INFO
+    writing top-level names to django_pagination.egg-info/top_level.txt
+    writing dependency_links to django_pagination.egg-info/dependency_links.txt
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'django_pagination.egg-info/SOURCES.txt'
+    writing manifest file 'django_pagination.egg-info/SOURCES.txt'
+    creating build/lib.linux-i686-2.6/pagination/locale
+    creating build/lib.linux-i686-2.6/pagination/locale/de
+    creating build/lib.linux-i686-2.6/pagination/locale/de/LC_MESSAGES
+    copying pagination/locale/de/LC_MESSAGES/django.mo -> build/lib.linux-i686-2.6/pagination/locale/de/LC_MESSAGES
+    copying pagination/locale/de/LC_MESSAGES/django.po -> build/lib.linux-i686-2.6/pagination/locale/de/LC_MESSAGES
+    creating build/lib.linux-i686-2.6/pagination/locale/fr
+    creating build/lib.linux-i686-2.6/pagination/locale/fr/LC_MESSAGES
+    copying pagination/locale/fr/LC_MESSAGES/django.mo -> build/lib.linux-i686-2.6/pagination/locale/fr/LC_MESSAGES
+    copying pagination/locale/fr/LC_MESSAGES/django.po -> build/lib.linux-i686-2.6/pagination/locale/fr/LC_MESSAGES
+    creating build/lib.linux-i686-2.6/pagination/locale/pl
+    creating build/lib.linux-i686-2.6/pagination/locale/pl/LC_MESSAGES
+    copying pagination/locale/pl/LC_MESSAGES/django.mo -> build/lib.linux-i686-2.6/pagination/locale/pl/LC_MESSAGES
+    copying pagination/locale/pl/LC_MESSAGES/django.po -> build/lib.linux-i686-2.6/pagination/locale/pl/LC_MESSAGES
+    creating build/lib.linux-i686-2.6/pagination/templates
+    creating build/lib.linux-i686-2.6/pagination/templates/pagination
+    copying pagination/templates/pagination/pagination.html -> build/lib.linux-i686-2.6/pagination/templates/pagination
+    running install_lib
+    creating /usr/local/lib/python2.6/dist-packages/pagination
+    error: could not create '/usr/local/lib/python2.6/dist-packages/pagination': Permission denied
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/django-pagination/setup.py'; execfile('/home/maruen/Projects/startthedark/build/django-pagination/setup.py')" install --single-version-externally-managed --record /tmp/pip-UdN1x8-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-i686-2.6
+
+creating build/lib.linux-i686-2.6/pagination
+
+copying pagination/models.py -> build/lib.linux-i686-2.6/pagination
+
+copying pagination/__init__.py -> build/lib.linux-i686-2.6/pagination
+
+copying pagination/tests.py -> build/lib.linux-i686-2.6/pagination
+
+copying pagination/middleware.py -> build/lib.linux-i686-2.6/pagination
+
+creating build/lib.linux-i686-2.6/pagination/templatetags
+
+copying pagination/templatetags/__init__.py -> build/lib.linux-i686-2.6/pagination/templatetags
+
+copying pagination/templatetags/pagination_tags.py -> build/lib.linux-i686-2.6/pagination/templatetags
+
+running egg_info
+
+writing requirements to django_pagination.egg-info/requires.txt
+
+writing django_pagination.egg-info/PKG-INFO
+
+writing top-level names to django_pagination.egg-info/top_level.txt
+
+writing dependency_links to django_pagination.egg-info/dependency_links.txt
+
+warning: manifest_maker: standard file '-c' not found
+
+reading manifest file 'django_pagination.egg-info/SOURCES.txt'
+
+writing manifest file 'django_pagination.egg-info/SOURCES.txt'
+
+creating build/lib.linux-i686-2.6/pagination/locale
+
+creating build/lib.linux-i686-2.6/pagination/locale/de
+
+creating build/lib.linux-i686-2.6/pagination/locale/de/LC_MESSAGES
+
+copying pagination/locale/de/LC_MESSAGES/django.mo -> build/lib.linux-i686-2.6/pagination/locale/de/LC_MESSAGES
+
+copying pagination/locale/de/LC_MESSAGES/django.po -> build/lib.linux-i686-2.6/pagination/locale/de/LC_MESSAGES
+
+creating build/lib.linux-i686-2.6/pagination/locale/fr
+
+creating build/lib.linux-i686-2.6/pagination/locale/fr/LC_MESSAGES
+
+copying pagination/locale/fr/LC_MESSAGES/django.mo -> build/lib.linux-i686-2.6/pagination/locale/fr/LC_MESSAGES
+
+copying pagination/locale/fr/LC_MESSAGES/django.po -> build/lib.linux-i686-2.6/pagination/locale/fr/LC_MESSAGES
+
+creating build/lib.linux-i686-2.6/pagination/locale/pl
+
+creating build/lib.linux-i686-2.6/pagination/locale/pl/LC_MESSAGES
+
+copying pagination/locale/pl/LC_MESSAGES/django.mo -> build/lib.linux-i686-2.6/pagination/locale/pl/LC_MESSAGES
+
+copying pagination/locale/pl/LC_MESSAGES/django.po -> build/lib.linux-i686-2.6/pagination/locale/pl/LC_MESSAGES
+
+creating build/lib.linux-i686-2.6/pagination/templates
+
+creating build/lib.linux-i686-2.6/pagination/templates/pagination
+
+copying pagination/templates/pagination/pagination.html -> build/lib.linux-i686-2.6/pagination/templates/pagination
+
+running install_lib
+
+creating /usr/local/lib/python2.6/dist-packages/pagination
+
+error: could not create '/usr/local/lib/python2.6/dist-packages/pagination': Permission denied
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/django-pagination/setup.py'; execfile('/home/maruen/Projects/startthedark/build/django-pagination/setup.py')" install --single-version-externally-managed --record /tmp/pip-UdN1x8-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 410, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 2017, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1515, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/django-pagination/setup.py'; execfile('/home/maruen/Projects/startthedark/build/django-pagination/setup.py')" install --single-version-externally-managed --record /tmp/pip-UdN1x8-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include failed with error code 1
+------------------------------------------------------------
+/usr/bin/pip run on Fri Feb 19 03:19:43 2010
+Downloading/unpacking python-dateuti
+  Getting page http://pypi.python.org/simple/python-dateuti
+  Could not fetch URL http://pypi.python.org/simple/python-dateuti: HTTP Error 404: Not Found
+  Will skip URL http://pypi.python.org/simple/python-dateuti when looking for download links for python-dateuti
+  Getting page http://pypi.python.org/simple/
+  URLs to search for versions for python-dateuti:
+  Could not find any downloads that satisfy the requirement python-dateuti
+No distributions at all found for python-dateuti
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 408, in run
+    requirement_set.install_files(finder, force_root_egg_info=self.bundle)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1750, in install_files
+    url = finder.find_requirement(req_to_install, upgrade=self.upgrade)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1029, in find_requirement
+    raise DistributionNotFound('No distributions at all found for %s' % req)
+DistributionNotFound: No distributions at all found for python-dateuti
+------------------------------------------------------------
+/usr/bin/pip run on Fri Feb 19 03:19:52 2010
+Downloading/unpacking python-dateutil
+  Getting page http://pypi.python.org/simple/python-dateutil
+  URLs to search for versions for python-dateutil:
+  * http://pypi.python.org/simple/python-dateutil
+  Getting page http://labix.org/python-dateutil
+  Analyzing links from page http://pypi.python.org/simple/python-dateutil/
+    Found link http://pypi.python.org/packages/source/p/python-dateutil/python-dateutil-1.4.tar.gz#md5=bfc5ff0551ec864d8a514e3137c063d2 (from http://pypi.python.org/simple/python-dateutil/), version: 1.4
+    Found link http://pypi.python.org/packages/source/p/python-dateutil/python-dateutil-1.4.1.tar.gz#md5=2a5f25ab12fcefcf0b21348f2d47595a (from http://pypi.python.org/simple/python-dateutil/), version: 1.4.1
+    Skipping link http://labix.org/python-dateutil (from http://pypi.python.org/simple/python-dateutil/); not a file
+  Analyzing links from page http://labix.org/python-dateutil
+    Skipping link http://labix.org/moin//labixtheme/css/common.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/screen.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/print.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/projection.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/msie.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://blog.labix.org/feed (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/MainPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=raw (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=print (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/FindPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/TitleIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/WordIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpOnFormatting (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/RecentChanges (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpContents (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=login (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-42a94eedcff96da7fb1f77096b5a3b519c859ba9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-217af1251c3f91cb598ccf3240c6ab8abcb30151 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8d03c6c25ead6f9cab0cde83e6f672b52480ab90 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-2f49784d6b27bae60cde1cff6a535663cf87497b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8ec264be46f5eb8d8c6f2c4e371977c3ac861ca0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-de6843b3f85a4d89902482be0a545d424674bc6f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ba5ffd4df8111d1b83fc194b97ebecf837add454 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-6a1472b7c74e5b8bab7784f11214250d34e09aa5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-72c4689ec5608067d118b9143cef6bdffb6dad4e (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-470fa22b2db72000d7abe698a5783a46b0731b57 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-cf004ee9a75592797e076752b2a889c10f445418 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4a3df936af8af6f293d5af912eb5ff19199a3a31 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-0a0c19852fd7a09fe80e71dfdb707c94357bd3b2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a65103993a21b717f6702063f3717e6e75b4ba66 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1f7c5d0c956a96f26aa1de60b861f4d58180c1dd (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f83f4f0dd5fa533e0260bdcdd08df927594c32d2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-717a8f5a506d997f07db99aeb71b76ea991f9309 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c8490514591aca4648153ac3fec3ac8378812e68 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-e987b581aebacf25c7276d3e9214385a12a091f2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-88ab2bc809145fcf75c074817911575616ce7caf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a23e8ae0a661d77b89dfb3476f85b26f0b30349c (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c0e81a473b647dfa787dc11e8c69557ec2c3ecd2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b95ce2094d189a89f80f5ae52a05b4ab7b41af47 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-19e5d3331806e55ec2ba1b9e39458784cc0a0004 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8863c4fc47132b106fcb00b9153e3ac0ab486a0d (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-13c68d26cb27abbe375f9b50e93733201d7bfcf9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-587bd3efc48f897f55c179abc520a34330ee0a62 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-22a9091046e360a71feb49de042ce9c4caff71c6 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c3435483cc30bebd143f863aafd67fd8ee777bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8bf499d888b70bc300c6c8820dc123326197c00f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-58c6b63a94c52a232da0868e87d4df54c97ec301 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-5fb12f4538c5a2fd83f87eea8e6c0ddd47f8b4b0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-50221b5226c3ccb97daa06ea7d9abf0533ec0310 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d05e8740f6f1455afac35ec3d5d97e1d548baac4 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-49eeb37a97530e6f94c4ef861ad0761b8165a2c2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7d8aeb285b0a41f7e86faa5740a8f3b5a5fc2bb5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c224f7821e0117a34df2672112ea6ccee3073209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4e4386d98006f1e3cb9290a04bff7e01e584505b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f1121b6d3ef2225b8dd55f61fd00c3773449e3cf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d6166b61093628c0ac32d1d7a784ec93e1b70593 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-75bc1957f9db6525f8243c1ad47f41e43a3b5209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a5b145fe5fe00eb615554a9bfd05e97239fd5bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-566bbb3e75e621ac00d2cb1b54abc09036b994f1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-34514e868024a22e23c143de58860a3414d40fd1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-86ad81deb327e671eb87f522f16fa426faa27908 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-989c2319cb8755b6bf7991ab4e4bc3e32a6f019a (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ca9ea503b79d48555861a6aadccee819efdcebf3 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-393b26a3fb12ad903d6769decf94e11b7ec86298 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7b64fa6ed6e02b68e9cb7c3d42d6fb7b4cb133e9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link ftp://ftp.rfc-editor.org/in-notes/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil), version: 1.4.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil), version: 1.4
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil), version: 1.3
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil), version: 1.2
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil), version: 1.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil), version: 1.0
+    Skipping link mailto:gustavo@niemeyer.net (from http://labix.org/python-dateutil); unknown archive format: .net
+    Skipping link http://www.egenix.com/files/python/mxDateTime.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.cl.cam.ac.uk/%7emgk25/iso-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.ietf.org/rfc/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Skipping link http://users.chariot.net.au/%7egmarts/eastalg.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.tondering.dk/claus/calendar.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.twinsun.com/tz/tz-link.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.python.org/doc/current/lib/module-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.python.org/doc/current/lib/datetime-tzinfo.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://labix.org/CategoryProject (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/GustavoNiemeyer (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/ (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/Python (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/GPL (from http://labix.org/python-dateutil); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://labix.org/python-dateutil); not a file
+  Analyzing links from page http://labix.org/python-dateutil
+    Skipping link http://labix.org/moin//labixtheme/css/common.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/screen.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/print.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/projection.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/msie.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://blog.labix.org/feed (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/MainPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=raw (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=print (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/FindPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/TitleIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/WordIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpOnFormatting (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/RecentChanges (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpContents (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=login (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-42a94eedcff96da7fb1f77096b5a3b519c859ba9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-217af1251c3f91cb598ccf3240c6ab8abcb30151 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8d03c6c25ead6f9cab0cde83e6f672b52480ab90 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-2f49784d6b27bae60cde1cff6a535663cf87497b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8ec264be46f5eb8d8c6f2c4e371977c3ac861ca0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-de6843b3f85a4d89902482be0a545d424674bc6f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ba5ffd4df8111d1b83fc194b97ebecf837add454 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-6a1472b7c74e5b8bab7784f11214250d34e09aa5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-72c4689ec5608067d118b9143cef6bdffb6dad4e (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-470fa22b2db72000d7abe698a5783a46b0731b57 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-cf004ee9a75592797e076752b2a889c10f445418 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4a3df936af8af6f293d5af912eb5ff19199a3a31 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-0a0c19852fd7a09fe80e71dfdb707c94357bd3b2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a65103993a21b717f6702063f3717e6e75b4ba66 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1f7c5d0c956a96f26aa1de60b861f4d58180c1dd (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f83f4f0dd5fa533e0260bdcdd08df927594c32d2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-717a8f5a506d997f07db99aeb71b76ea991f9309 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c8490514591aca4648153ac3fec3ac8378812e68 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-e987b581aebacf25c7276d3e9214385a12a091f2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-88ab2bc809145fcf75c074817911575616ce7caf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a23e8ae0a661d77b89dfb3476f85b26f0b30349c (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c0e81a473b647dfa787dc11e8c69557ec2c3ecd2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b95ce2094d189a89f80f5ae52a05b4ab7b41af47 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-19e5d3331806e55ec2ba1b9e39458784cc0a0004 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8863c4fc47132b106fcb00b9153e3ac0ab486a0d (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-13c68d26cb27abbe375f9b50e93733201d7bfcf9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-587bd3efc48f897f55c179abc520a34330ee0a62 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-22a9091046e360a71feb49de042ce9c4caff71c6 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c3435483cc30bebd143f863aafd67fd8ee777bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8bf499d888b70bc300c6c8820dc123326197c00f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-58c6b63a94c52a232da0868e87d4df54c97ec301 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-5fb12f4538c5a2fd83f87eea8e6c0ddd47f8b4b0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-50221b5226c3ccb97daa06ea7d9abf0533ec0310 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d05e8740f6f1455afac35ec3d5d97e1d548baac4 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-49eeb37a97530e6f94c4ef861ad0761b8165a2c2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7d8aeb285b0a41f7e86faa5740a8f3b5a5fc2bb5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c224f7821e0117a34df2672112ea6ccee3073209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4e4386d98006f1e3cb9290a04bff7e01e584505b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f1121b6d3ef2225b8dd55f61fd00c3773449e3cf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d6166b61093628c0ac32d1d7a784ec93e1b70593 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-75bc1957f9db6525f8243c1ad47f41e43a3b5209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a5b145fe5fe00eb615554a9bfd05e97239fd5bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-566bbb3e75e621ac00d2cb1b54abc09036b994f1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-34514e868024a22e23c143de58860a3414d40fd1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-86ad81deb327e671eb87f522f16fa426faa27908 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-989c2319cb8755b6bf7991ab4e4bc3e32a6f019a (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ca9ea503b79d48555861a6aadccee819efdcebf3 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-393b26a3fb12ad903d6769decf94e11b7ec86298 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7b64fa6ed6e02b68e9cb7c3d42d6fb7b4cb133e9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link ftp://ftp.rfc-editor.org/in-notes/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil), version: 1.4.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil), version: 1.4
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil), version: 1.3
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil), version: 1.2
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil), version: 1.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil), version: 1.0
+    Skipping link mailto:gustavo@niemeyer.net (from http://labix.org/python-dateutil); unknown archive format: .net
+    Skipping link http://www.egenix.com/files/python/mxDateTime.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.cl.cam.ac.uk/%7emgk25/iso-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.ietf.org/rfc/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Skipping link http://users.chariot.net.au/%7egmarts/eastalg.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.tondering.dk/claus/calendar.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.twinsun.com/tz/tz-link.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.python.org/doc/current/lib/module-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.python.org/doc/current/lib/datetime-tzinfo.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://labix.org/CategoryProject (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/GustavoNiemeyer (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/ (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/Python (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/GPL (from http://labix.org/python-dateutil); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://labix.org/python-dateutil); not a file
+  Analyzing links from page http://labix.org/python-dateutil
+    Skipping link http://labix.org/moin//labixtheme/css/common.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/screen.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/print.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/projection.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/msie.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://blog.labix.org/feed (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/MainPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=raw (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=print (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/FindPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/TitleIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/WordIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpOnFormatting (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/RecentChanges (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpContents (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=login (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-42a94eedcff96da7fb1f77096b5a3b519c859ba9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-217af1251c3f91cb598ccf3240c6ab8abcb30151 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8d03c6c25ead6f9cab0cde83e6f672b52480ab90 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-2f49784d6b27bae60cde1cff6a535663cf87497b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8ec264be46f5eb8d8c6f2c4e371977c3ac861ca0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-de6843b3f85a4d89902482be0a545d424674bc6f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ba5ffd4df8111d1b83fc194b97ebecf837add454 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-6a1472b7c74e5b8bab7784f11214250d34e09aa5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-72c4689ec5608067d118b9143cef6bdffb6dad4e (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-470fa22b2db72000d7abe698a5783a46b0731b57 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-cf004ee9a75592797e076752b2a889c10f445418 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4a3df936af8af6f293d5af912eb5ff19199a3a31 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-0a0c19852fd7a09fe80e71dfdb707c94357bd3b2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a65103993a21b717f6702063f3717e6e75b4ba66 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1f7c5d0c956a96f26aa1de60b861f4d58180c1dd (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f83f4f0dd5fa533e0260bdcdd08df927594c32d2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-717a8f5a506d997f07db99aeb71b76ea991f9309 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c8490514591aca4648153ac3fec3ac8378812e68 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-e987b581aebacf25c7276d3e9214385a12a091f2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-88ab2bc809145fcf75c074817911575616ce7caf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a23e8ae0a661d77b89dfb3476f85b26f0b30349c (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c0e81a473b647dfa787dc11e8c69557ec2c3ecd2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b95ce2094d189a89f80f5ae52a05b4ab7b41af47 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-19e5d3331806e55ec2ba1b9e39458784cc0a0004 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8863c4fc47132b106fcb00b9153e3ac0ab486a0d (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-13c68d26cb27abbe375f9b50e93733201d7bfcf9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-587bd3efc48f897f55c179abc520a34330ee0a62 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-22a9091046e360a71feb49de042ce9c4caff71c6 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c3435483cc30bebd143f863aafd67fd8ee777bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8bf499d888b70bc300c6c8820dc123326197c00f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-58c6b63a94c52a232da0868e87d4df54c97ec301 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-5fb12f4538c5a2fd83f87eea8e6c0ddd47f8b4b0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-50221b5226c3ccb97daa06ea7d9abf0533ec0310 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d05e8740f6f1455afac35ec3d5d97e1d548baac4 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-49eeb37a97530e6f94c4ef861ad0761b8165a2c2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7d8aeb285b0a41f7e86faa5740a8f3b5a5fc2bb5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c224f7821e0117a34df2672112ea6ccee3073209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4e4386d98006f1e3cb9290a04bff7e01e584505b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f1121b6d3ef2225b8dd55f61fd00c3773449e3cf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d6166b61093628c0ac32d1d7a784ec93e1b70593 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-75bc1957f9db6525f8243c1ad47f41e43a3b5209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a5b145fe5fe00eb615554a9bfd05e97239fd5bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-566bbb3e75e621ac00d2cb1b54abc09036b994f1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-34514e868024a22e23c143de58860a3414d40fd1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-86ad81deb327e671eb87f522f16fa426faa27908 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-989c2319cb8755b6bf7991ab4e4bc3e32a6f019a (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ca9ea503b79d48555861a6aadccee819efdcebf3 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-393b26a3fb12ad903d6769decf94e11b7ec86298 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7b64fa6ed6e02b68e9cb7c3d42d6fb7b4cb133e9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link ftp://ftp.rfc-editor.org/in-notes/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil), version: 1.4.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil), version: 1.4
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil), version: 1.3
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil), version: 1.2
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil), version: 1.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil), version: 1.0
+    Skipping link mailto:gustavo@niemeyer.net (from http://labix.org/python-dateutil); unknown archive format: .net
+    Skipping link http://www.egenix.com/files/python/mxDateTime.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.cl.cam.ac.uk/%7emgk25/iso-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.ietf.org/rfc/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Skipping link http://users.chariot.net.au/%7egmarts/eastalg.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.tondering.dk/claus/calendar.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.twinsun.com/tz/tz-link.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.python.org/doc/current/lib/module-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.python.org/doc/current/lib/datetime-tzinfo.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://labix.org/CategoryProject (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/GustavoNiemeyer (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/ (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/Python (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/GPL (from http://labix.org/python-dateutil); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://labix.org/python-dateutil); not a file
+  Analyzing links from page http://labix.org/python-dateutil
+    Skipping link http://labix.org/moin//labixtheme/css/common.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/screen.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/print.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/projection.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/msie.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://blog.labix.org/feed (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/MainPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=raw (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=print (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/FindPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/TitleIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/WordIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpOnFormatting (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/RecentChanges (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpContents (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=login (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-42a94eedcff96da7fb1f77096b5a3b519c859ba9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-217af1251c3f91cb598ccf3240c6ab8abcb30151 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8d03c6c25ead6f9cab0cde83e6f672b52480ab90 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-2f49784d6b27bae60cde1cff6a535663cf87497b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8ec264be46f5eb8d8c6f2c4e371977c3ac861ca0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-de6843b3f85a4d89902482be0a545d424674bc6f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ba5ffd4df8111d1b83fc194b97ebecf837add454 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-6a1472b7c74e5b8bab7784f11214250d34e09aa5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-72c4689ec5608067d118b9143cef6bdffb6dad4e (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-470fa22b2db72000d7abe698a5783a46b0731b57 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-cf004ee9a75592797e076752b2a889c10f445418 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4a3df936af8af6f293d5af912eb5ff19199a3a31 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-0a0c19852fd7a09fe80e71dfdb707c94357bd3b2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a65103993a21b717f6702063f3717e6e75b4ba66 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1f7c5d0c956a96f26aa1de60b861f4d58180c1dd (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f83f4f0dd5fa533e0260bdcdd08df927594c32d2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-717a8f5a506d997f07db99aeb71b76ea991f9309 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c8490514591aca4648153ac3fec3ac8378812e68 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-e987b581aebacf25c7276d3e9214385a12a091f2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-88ab2bc809145fcf75c074817911575616ce7caf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a23e8ae0a661d77b89dfb3476f85b26f0b30349c (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c0e81a473b647dfa787dc11e8c69557ec2c3ecd2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b95ce2094d189a89f80f5ae52a05b4ab7b41af47 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-19e5d3331806e55ec2ba1b9e39458784cc0a0004 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8863c4fc47132b106fcb00b9153e3ac0ab486a0d (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-13c68d26cb27abbe375f9b50e93733201d7bfcf9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-587bd3efc48f897f55c179abc520a34330ee0a62 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-22a9091046e360a71feb49de042ce9c4caff71c6 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c3435483cc30bebd143f863aafd67fd8ee777bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8bf499d888b70bc300c6c8820dc123326197c00f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-58c6b63a94c52a232da0868e87d4df54c97ec301 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-5fb12f4538c5a2fd83f87eea8e6c0ddd47f8b4b0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-50221b5226c3ccb97daa06ea7d9abf0533ec0310 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d05e8740f6f1455afac35ec3d5d97e1d548baac4 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-49eeb37a97530e6f94c4ef861ad0761b8165a2c2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7d8aeb285b0a41f7e86faa5740a8f3b5a5fc2bb5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c224f7821e0117a34df2672112ea6ccee3073209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4e4386d98006f1e3cb9290a04bff7e01e584505b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f1121b6d3ef2225b8dd55f61fd00c3773449e3cf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d6166b61093628c0ac32d1d7a784ec93e1b70593 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-75bc1957f9db6525f8243c1ad47f41e43a3b5209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a5b145fe5fe00eb615554a9bfd05e97239fd5bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-566bbb3e75e621ac00d2cb1b54abc09036b994f1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-34514e868024a22e23c143de58860a3414d40fd1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-86ad81deb327e671eb87f522f16fa426faa27908 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-989c2319cb8755b6bf7991ab4e4bc3e32a6f019a (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ca9ea503b79d48555861a6aadccee819efdcebf3 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-393b26a3fb12ad903d6769decf94e11b7ec86298 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7b64fa6ed6e02b68e9cb7c3d42d6fb7b4cb133e9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link ftp://ftp.rfc-editor.org/in-notes/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil), version: 1.4.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil), version: 1.4
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil), version: 1.3
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil), version: 1.2
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil), version: 1.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil), version: 1.0
+    Skipping link mailto:gustavo@niemeyer.net (from http://labix.org/python-dateutil); unknown archive format: .net
+    Skipping link http://www.egenix.com/files/python/mxDateTime.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.cl.cam.ac.uk/%7emgk25/iso-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.ietf.org/rfc/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Skipping link http://users.chariot.net.au/%7egmarts/eastalg.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.tondering.dk/claus/calendar.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.twinsun.com/tz/tz-link.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.python.org/doc/current/lib/module-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.python.org/doc/current/lib/datetime-tzinfo.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://labix.org/CategoryProject (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/GustavoNiemeyer (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/ (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/Python (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/GPL (from http://labix.org/python-dateutil); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://labix.org/python-dateutil); not a file
+  Analyzing links from page http://labix.org/python-dateutil
+    Skipping link http://labix.org/moin//labixtheme/css/common.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/screen.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/print.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/projection.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/msie.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://blog.labix.org/feed (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/MainPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=raw (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=print (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/FindPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/TitleIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/WordIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpOnFormatting (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/RecentChanges (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpContents (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=login (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-42a94eedcff96da7fb1f77096b5a3b519c859ba9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-217af1251c3f91cb598ccf3240c6ab8abcb30151 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8d03c6c25ead6f9cab0cde83e6f672b52480ab90 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-2f49784d6b27bae60cde1cff6a535663cf87497b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8ec264be46f5eb8d8c6f2c4e371977c3ac861ca0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-de6843b3f85a4d89902482be0a545d424674bc6f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ba5ffd4df8111d1b83fc194b97ebecf837add454 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-6a1472b7c74e5b8bab7784f11214250d34e09aa5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-72c4689ec5608067d118b9143cef6bdffb6dad4e (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-470fa22b2db72000d7abe698a5783a46b0731b57 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-cf004ee9a75592797e076752b2a889c10f445418 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4a3df936af8af6f293d5af912eb5ff19199a3a31 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-0a0c19852fd7a09fe80e71dfdb707c94357bd3b2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a65103993a21b717f6702063f3717e6e75b4ba66 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1f7c5d0c956a96f26aa1de60b861f4d58180c1dd (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f83f4f0dd5fa533e0260bdcdd08df927594c32d2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-717a8f5a506d997f07db99aeb71b76ea991f9309 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c8490514591aca4648153ac3fec3ac8378812e68 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-e987b581aebacf25c7276d3e9214385a12a091f2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-88ab2bc809145fcf75c074817911575616ce7caf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a23e8ae0a661d77b89dfb3476f85b26f0b30349c (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c0e81a473b647dfa787dc11e8c69557ec2c3ecd2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b95ce2094d189a89f80f5ae52a05b4ab7b41af47 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-19e5d3331806e55ec2ba1b9e39458784cc0a0004 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8863c4fc47132b106fcb00b9153e3ac0ab486a0d (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-13c68d26cb27abbe375f9b50e93733201d7bfcf9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-587bd3efc48f897f55c179abc520a34330ee0a62 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-22a9091046e360a71feb49de042ce9c4caff71c6 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c3435483cc30bebd143f863aafd67fd8ee777bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8bf499d888b70bc300c6c8820dc123326197c00f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-58c6b63a94c52a232da0868e87d4df54c97ec301 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-5fb12f4538c5a2fd83f87eea8e6c0ddd47f8b4b0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-50221b5226c3ccb97daa06ea7d9abf0533ec0310 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d05e8740f6f1455afac35ec3d5d97e1d548baac4 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-49eeb37a97530e6f94c4ef861ad0761b8165a2c2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7d8aeb285b0a41f7e86faa5740a8f3b5a5fc2bb5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c224f7821e0117a34df2672112ea6ccee3073209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4e4386d98006f1e3cb9290a04bff7e01e584505b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f1121b6d3ef2225b8dd55f61fd00c3773449e3cf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d6166b61093628c0ac32d1d7a784ec93e1b70593 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-75bc1957f9db6525f8243c1ad47f41e43a3b5209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a5b145fe5fe00eb615554a9bfd05e97239fd5bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-566bbb3e75e621ac00d2cb1b54abc09036b994f1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-34514e868024a22e23c143de58860a3414d40fd1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-86ad81deb327e671eb87f522f16fa426faa27908 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-989c2319cb8755b6bf7991ab4e4bc3e32a6f019a (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ca9ea503b79d48555861a6aadccee819efdcebf3 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-393b26a3fb12ad903d6769decf94e11b7ec86298 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7b64fa6ed6e02b68e9cb7c3d42d6fb7b4cb133e9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link ftp://ftp.rfc-editor.org/in-notes/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil), version: 1.4.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil), version: 1.4
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil), version: 1.3
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil), version: 1.2
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil), version: 1.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil), version: 1.0
+    Skipping link mailto:gustavo@niemeyer.net (from http://labix.org/python-dateutil); unknown archive format: .net
+    Skipping link http://www.egenix.com/files/python/mxDateTime.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.cl.cam.ac.uk/%7emgk25/iso-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.ietf.org/rfc/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Skipping link http://users.chariot.net.au/%7egmarts/eastalg.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.tondering.dk/claus/calendar.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.twinsun.com/tz/tz-link.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.python.org/doc/current/lib/module-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.python.org/doc/current/lib/datetime-tzinfo.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://labix.org/CategoryProject (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/GustavoNiemeyer (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/ (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/Python (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/GPL (from http://labix.org/python-dateutil); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://labix.org/python-dateutil); not a file
+  Analyzing links from page http://labix.org/python-dateutil
+    Skipping link http://labix.org/moin//labixtheme/css/common.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/screen.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/print.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/projection.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/msie.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://blog.labix.org/feed (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/MainPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=raw (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=print (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/FindPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/TitleIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/WordIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpOnFormatting (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/RecentChanges (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpContents (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=login (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-42a94eedcff96da7fb1f77096b5a3b519c859ba9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-217af1251c3f91cb598ccf3240c6ab8abcb30151 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8d03c6c25ead6f9cab0cde83e6f672b52480ab90 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-2f49784d6b27bae60cde1cff6a535663cf87497b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8ec264be46f5eb8d8c6f2c4e371977c3ac861ca0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-de6843b3f85a4d89902482be0a545d424674bc6f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ba5ffd4df8111d1b83fc194b97ebecf837add454 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-6a1472b7c74e5b8bab7784f11214250d34e09aa5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-72c4689ec5608067d118b9143cef6bdffb6dad4e (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-470fa22b2db72000d7abe698a5783a46b0731b57 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-cf004ee9a75592797e076752b2a889c10f445418 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4a3df936af8af6f293d5af912eb5ff19199a3a31 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-0a0c19852fd7a09fe80e71dfdb707c94357bd3b2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a65103993a21b717f6702063f3717e6e75b4ba66 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1f7c5d0c956a96f26aa1de60b861f4d58180c1dd (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f83f4f0dd5fa533e0260bdcdd08df927594c32d2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-717a8f5a506d997f07db99aeb71b76ea991f9309 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c8490514591aca4648153ac3fec3ac8378812e68 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-e987b581aebacf25c7276d3e9214385a12a091f2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-88ab2bc809145fcf75c074817911575616ce7caf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a23e8ae0a661d77b89dfb3476f85b26f0b30349c (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c0e81a473b647dfa787dc11e8c69557ec2c3ecd2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b95ce2094d189a89f80f5ae52a05b4ab7b41af47 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-19e5d3331806e55ec2ba1b9e39458784cc0a0004 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8863c4fc47132b106fcb00b9153e3ac0ab486a0d (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-13c68d26cb27abbe375f9b50e93733201d7bfcf9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-587bd3efc48f897f55c179abc520a34330ee0a62 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-22a9091046e360a71feb49de042ce9c4caff71c6 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c3435483cc30bebd143f863aafd67fd8ee777bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8bf499d888b70bc300c6c8820dc123326197c00f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-58c6b63a94c52a232da0868e87d4df54c97ec301 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-5fb12f4538c5a2fd83f87eea8e6c0ddd47f8b4b0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-50221b5226c3ccb97daa06ea7d9abf0533ec0310 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d05e8740f6f1455afac35ec3d5d97e1d548baac4 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-49eeb37a97530e6f94c4ef861ad0761b8165a2c2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7d8aeb285b0a41f7e86faa5740a8f3b5a5fc2bb5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c224f7821e0117a34df2672112ea6ccee3073209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4e4386d98006f1e3cb9290a04bff7e01e584505b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f1121b6d3ef2225b8dd55f61fd00c3773449e3cf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d6166b61093628c0ac32d1d7a784ec93e1b70593 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-75bc1957f9db6525f8243c1ad47f41e43a3b5209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a5b145fe5fe00eb615554a9bfd05e97239fd5bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-566bbb3e75e621ac00d2cb1b54abc09036b994f1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-34514e868024a22e23c143de58860a3414d40fd1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-86ad81deb327e671eb87f522f16fa426faa27908 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-989c2319cb8755b6bf7991ab4e4bc3e32a6f019a (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ca9ea503b79d48555861a6aadccee819efdcebf3 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-393b26a3fb12ad903d6769decf94e11b7ec86298 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7b64fa6ed6e02b68e9cb7c3d42d6fb7b4cb133e9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link ftp://ftp.rfc-editor.org/in-notes/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil), version: 1.4.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil), version: 1.4
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil), version: 1.3
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil), version: 1.2
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil), version: 1.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil), version: 1.0
+    Skipping link mailto:gustavo@niemeyer.net (from http://labix.org/python-dateutil); unknown archive format: .net
+    Skipping link http://www.egenix.com/files/python/mxDateTime.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.cl.cam.ac.uk/%7emgk25/iso-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.ietf.org/rfc/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Skipping link http://users.chariot.net.au/%7egmarts/eastalg.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.tondering.dk/claus/calendar.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.twinsun.com/tz/tz-link.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.python.org/doc/current/lib/module-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.python.org/doc/current/lib/datetime-tzinfo.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://labix.org/CategoryProject (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/GustavoNiemeyer (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/ (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/Python (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/GPL (from http://labix.org/python-dateutil); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://labix.org/python-dateutil); not a file
+  Analyzing links from page http://labix.org/python-dateutil
+    Skipping link http://labix.org/moin//labixtheme/css/common.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/screen.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/print.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/projection.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/msie.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://blog.labix.org/feed (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/MainPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=raw (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=print (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/FindPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/TitleIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/WordIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpOnFormatting (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/RecentChanges (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpContents (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=login (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-42a94eedcff96da7fb1f77096b5a3b519c859ba9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-217af1251c3f91cb598ccf3240c6ab8abcb30151 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8d03c6c25ead6f9cab0cde83e6f672b52480ab90 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-2f49784d6b27bae60cde1cff6a535663cf87497b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8ec264be46f5eb8d8c6f2c4e371977c3ac861ca0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-de6843b3f85a4d89902482be0a545d424674bc6f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ba5ffd4df8111d1b83fc194b97ebecf837add454 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-6a1472b7c74e5b8bab7784f11214250d34e09aa5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-72c4689ec5608067d118b9143cef6bdffb6dad4e (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-470fa22b2db72000d7abe698a5783a46b0731b57 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-cf004ee9a75592797e076752b2a889c10f445418 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4a3df936af8af6f293d5af912eb5ff19199a3a31 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-0a0c19852fd7a09fe80e71dfdb707c94357bd3b2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a65103993a21b717f6702063f3717e6e75b4ba66 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1f7c5d0c956a96f26aa1de60b861f4d58180c1dd (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f83f4f0dd5fa533e0260bdcdd08df927594c32d2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-717a8f5a506d997f07db99aeb71b76ea991f9309 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c8490514591aca4648153ac3fec3ac8378812e68 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-e987b581aebacf25c7276d3e9214385a12a091f2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-88ab2bc809145fcf75c074817911575616ce7caf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a23e8ae0a661d77b89dfb3476f85b26f0b30349c (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c0e81a473b647dfa787dc11e8c69557ec2c3ecd2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b95ce2094d189a89f80f5ae52a05b4ab7b41af47 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-19e5d3331806e55ec2ba1b9e39458784cc0a0004 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8863c4fc47132b106fcb00b9153e3ac0ab486a0d (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-13c68d26cb27abbe375f9b50e93733201d7bfcf9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-587bd3efc48f897f55c179abc520a34330ee0a62 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-22a9091046e360a71feb49de042ce9c4caff71c6 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c3435483cc30bebd143f863aafd67fd8ee777bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8bf499d888b70bc300c6c8820dc123326197c00f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-58c6b63a94c52a232da0868e87d4df54c97ec301 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-5fb12f4538c5a2fd83f87eea8e6c0ddd47f8b4b0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-50221b5226c3ccb97daa06ea7d9abf0533ec0310 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d05e8740f6f1455afac35ec3d5d97e1d548baac4 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-49eeb37a97530e6f94c4ef861ad0761b8165a2c2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7d8aeb285b0a41f7e86faa5740a8f3b5a5fc2bb5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c224f7821e0117a34df2672112ea6ccee3073209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4e4386d98006f1e3cb9290a04bff7e01e584505b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f1121b6d3ef2225b8dd55f61fd00c3773449e3cf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d6166b61093628c0ac32d1d7a784ec93e1b70593 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-75bc1957f9db6525f8243c1ad47f41e43a3b5209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a5b145fe5fe00eb615554a9bfd05e97239fd5bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-566bbb3e75e621ac00d2cb1b54abc09036b994f1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-34514e868024a22e23c143de58860a3414d40fd1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-86ad81deb327e671eb87f522f16fa426faa27908 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-989c2319cb8755b6bf7991ab4e4bc3e32a6f019a (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ca9ea503b79d48555861a6aadccee819efdcebf3 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-393b26a3fb12ad903d6769decf94e11b7ec86298 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7b64fa6ed6e02b68e9cb7c3d42d6fb7b4cb133e9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link ftp://ftp.rfc-editor.org/in-notes/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil), version: 1.4.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil), version: 1.4
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil), version: 1.3
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil), version: 1.2
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil), version: 1.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil), version: 1.0
+    Skipping link mailto:gustavo@niemeyer.net (from http://labix.org/python-dateutil); unknown archive format: .net
+    Skipping link http://www.egenix.com/files/python/mxDateTime.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.cl.cam.ac.uk/%7emgk25/iso-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.ietf.org/rfc/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Skipping link http://users.chariot.net.au/%7egmarts/eastalg.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.tondering.dk/claus/calendar.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.twinsun.com/tz/tz-link.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.python.org/doc/current/lib/module-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.python.org/doc/current/lib/datetime-tzinfo.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://labix.org/CategoryProject (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/GustavoNiemeyer (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/ (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/Python (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/GPL (from http://labix.org/python-dateutil); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://labix.org/python-dateutil); not a file
+  Analyzing links from page http://labix.org/python-dateutil
+    Skipping link http://labix.org/moin//labixtheme/css/common.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/screen.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/print.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/projection.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/msie.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://blog.labix.org/feed (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/MainPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=raw (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=print (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/FindPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/TitleIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/WordIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpOnFormatting (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/RecentChanges (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpContents (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=login (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-42a94eedcff96da7fb1f77096b5a3b519c859ba9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-217af1251c3f91cb598ccf3240c6ab8abcb30151 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8d03c6c25ead6f9cab0cde83e6f672b52480ab90 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-2f49784d6b27bae60cde1cff6a535663cf87497b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8ec264be46f5eb8d8c6f2c4e371977c3ac861ca0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-de6843b3f85a4d89902482be0a545d424674bc6f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ba5ffd4df8111d1b83fc194b97ebecf837add454 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-6a1472b7c74e5b8bab7784f11214250d34e09aa5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-72c4689ec5608067d118b9143cef6bdffb6dad4e (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-470fa22b2db72000d7abe698a5783a46b0731b57 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-cf004ee9a75592797e076752b2a889c10f445418 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4a3df936af8af6f293d5af912eb5ff19199a3a31 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-0a0c19852fd7a09fe80e71dfdb707c94357bd3b2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a65103993a21b717f6702063f3717e6e75b4ba66 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1f7c5d0c956a96f26aa1de60b861f4d58180c1dd (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f83f4f0dd5fa533e0260bdcdd08df927594c32d2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-717a8f5a506d997f07db99aeb71b76ea991f9309 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c8490514591aca4648153ac3fec3ac8378812e68 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-e987b581aebacf25c7276d3e9214385a12a091f2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-88ab2bc809145fcf75c074817911575616ce7caf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a23e8ae0a661d77b89dfb3476f85b26f0b30349c (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c0e81a473b647dfa787dc11e8c69557ec2c3ecd2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b95ce2094d189a89f80f5ae52a05b4ab7b41af47 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-19e5d3331806e55ec2ba1b9e39458784cc0a0004 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8863c4fc47132b106fcb00b9153e3ac0ab486a0d (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-13c68d26cb27abbe375f9b50e93733201d7bfcf9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-587bd3efc48f897f55c179abc520a34330ee0a62 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-22a9091046e360a71feb49de042ce9c4caff71c6 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c3435483cc30bebd143f863aafd67fd8ee777bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8bf499d888b70bc300c6c8820dc123326197c00f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-58c6b63a94c52a232da0868e87d4df54c97ec301 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-5fb12f4538c5a2fd83f87eea8e6c0ddd47f8b4b0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-50221b5226c3ccb97daa06ea7d9abf0533ec0310 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d05e8740f6f1455afac35ec3d5d97e1d548baac4 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-49eeb37a97530e6f94c4ef861ad0761b8165a2c2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7d8aeb285b0a41f7e86faa5740a8f3b5a5fc2bb5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c224f7821e0117a34df2672112ea6ccee3073209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4e4386d98006f1e3cb9290a04bff7e01e584505b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f1121b6d3ef2225b8dd55f61fd00c3773449e3cf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d6166b61093628c0ac32d1d7a784ec93e1b70593 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-75bc1957f9db6525f8243c1ad47f41e43a3b5209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a5b145fe5fe00eb615554a9bfd05e97239fd5bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-566bbb3e75e621ac00d2cb1b54abc09036b994f1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-34514e868024a22e23c143de58860a3414d40fd1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-86ad81deb327e671eb87f522f16fa426faa27908 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-989c2319cb8755b6bf7991ab4e4bc3e32a6f019a (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ca9ea503b79d48555861a6aadccee819efdcebf3 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-393b26a3fb12ad903d6769decf94e11b7ec86298 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7b64fa6ed6e02b68e9cb7c3d42d6fb7b4cb133e9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link ftp://ftp.rfc-editor.org/in-notes/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil), version: 1.4.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil), version: 1.4
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil), version: 1.3
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil), version: 1.2
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil), version: 1.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil), version: 1.0
+    Skipping link mailto:gustavo@niemeyer.net (from http://labix.org/python-dateutil); unknown archive format: .net
+    Skipping link http://www.egenix.com/files/python/mxDateTime.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.cl.cam.ac.uk/%7emgk25/iso-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.ietf.org/rfc/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Skipping link http://users.chariot.net.au/%7egmarts/eastalg.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.tondering.dk/claus/calendar.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.twinsun.com/tz/tz-link.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.python.org/doc/current/lib/module-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.python.org/doc/current/lib/datetime-tzinfo.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://labix.org/CategoryProject (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/GustavoNiemeyer (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/ (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/Python (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/GPL (from http://labix.org/python-dateutil); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://labix.org/python-dateutil); not a file
+  Analyzing links from page http://labix.org/python-dateutil
+    Skipping link http://labix.org/moin//labixtheme/css/common.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/screen.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/print.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/projection.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://labix.org/moin//labixtheme/css/msie.css (from http://labix.org/python-dateutil); unknown archive format: .css
+    Skipping link http://blog.labix.org/feed (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/MainPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=raw (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=print (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=AttachFile&amp;do=view&amp;target=python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/FindPage (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/TitleIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/WordIndex (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpOnFormatting (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/RecentChanges (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/HelpContents (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil?action=login (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-42a94eedcff96da7fb1f77096b5a3b519c859ba9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-217af1251c3f91cb598ccf3240c6ab8abcb30151 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8d03c6c25ead6f9cab0cde83e6f672b52480ab90 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-2f49784d6b27bae60cde1cff6a535663cf87497b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8ec264be46f5eb8d8c6f2c4e371977c3ac861ca0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-de6843b3f85a4d89902482be0a545d424674bc6f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ba5ffd4df8111d1b83fc194b97ebecf837add454 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-6a1472b7c74e5b8bab7784f11214250d34e09aa5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-72c4689ec5608067d118b9143cef6bdffb6dad4e (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-470fa22b2db72000d7abe698a5783a46b0731b57 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-cf004ee9a75592797e076752b2a889c10f445418 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4a3df936af8af6f293d5af912eb5ff19199a3a31 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-0a0c19852fd7a09fe80e71dfdb707c94357bd3b2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a65103993a21b717f6702063f3717e6e75b4ba66 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1f7c5d0c956a96f26aa1de60b861f4d58180c1dd (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f83f4f0dd5fa533e0260bdcdd08df927594c32d2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-717a8f5a506d997f07db99aeb71b76ea991f9309 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c8490514591aca4648153ac3fec3ac8378812e68 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-e987b581aebacf25c7276d3e9214385a12a091f2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-88ab2bc809145fcf75c074817911575616ce7caf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a23e8ae0a661d77b89dfb3476f85b26f0b30349c (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c0e81a473b647dfa787dc11e8c69557ec2c3ecd2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b95ce2094d189a89f80f5ae52a05b4ab7b41af47 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-19e5d3331806e55ec2ba1b9e39458784cc0a0004 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-1443e0f14ad5dff07efd465e080d1110920673d8-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8863c4fc47132b106fcb00b9153e3ac0ab486a0d (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-13c68d26cb27abbe375f9b50e93733201d7bfcf9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-587bd3efc48f897f55c179abc520a34330ee0a62 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-22a9091046e360a71feb49de042ce9c4caff71c6 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c3435483cc30bebd143f863aafd67fd8ee777bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-8bf499d888b70bc300c6c8820dc123326197c00f (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-58c6b63a94c52a232da0868e87d4df54c97ec301 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-5fb12f4538c5a2fd83f87eea8e6c0ddd47f8b4b0 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-50221b5226c3ccb97daa06ea7d9abf0533ec0310 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d05e8740f6f1455afac35ec3d5d97e1d548baac4 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-49eeb37a97530e6f94c4ef861ad0761b8165a2c2 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7d8aeb285b0a41f7e86faa5740a8f3b5a5fc2bb5 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-c224f7821e0117a34df2672112ea6ccee3073209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-4e4386d98006f1e3cb9290a04bff7e01e584505b (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-f1121b6d3ef2225b8dd55f61fd00c3773449e3cf (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-d6166b61093628c0ac32d1d7a784ec93e1b70593 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-75bc1957f9db6525f8243c1ad47f41e43a3b5209 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-a5b145fe5fe00eb615554a9bfd05e97239fd5bde (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-566bbb3e75e621ac00d2cb1b54abc09036b994f1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-34514e868024a22e23c143de58860a3414d40fd1 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-86ad81deb327e671eb87f522f16fa426faa27908 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-989c2319cb8755b6bf7991ab4e4bc3e32a6f019a (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-ca9ea503b79d48555861a6aadccee819efdcebf3 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-393b26a3fb12ad903d6769decf94e11b7ec86298 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-7b64fa6ed6e02b68e9cb7c3d42d6fb7b4cb133e9 (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/python-dateutil#head-b79630fbbda87af6d6d121737510fd7ea5aeea97-2 (from http://labix.org/python-dateutil); not a file
+    Skipping link ftp://ftp.rfc-editor.org/in-notes/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil), version: 1.4.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.4.tar.bz2 (from http://labix.org/python-dateutil), version: 1.4
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.3.tar.bz2 (from http://labix.org/python-dateutil), version: 1.3
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.2.tar.bz2 (from http://labix.org/python-dateutil), version: 1.2
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.1.tar.bz2 (from http://labix.org/python-dateutil), version: 1.1
+    Found link http://labix.org/download/python-dateutil/python-dateutil-1.0.tar.bz2 (from http://labix.org/python-dateutil), version: 1.0
+    Skipping link mailto:gustavo@niemeyer.net (from http://labix.org/python-dateutil); unknown archive format: .net
+    Skipping link http://www.egenix.com/files/python/mxDateTime.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.cl.cam.ac.uk/%7emgk25/iso-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.ietf.org/rfc/rfc2445.txt (from http://labix.org/python-dateutil); unknown archive format: .txt
+    Skipping link http://users.chariot.net.au/%7egmarts/eastalg.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.tondering.dk/claus/calendar.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.twinsun.com/tz/tz-link.htm (from http://labix.org/python-dateutil); unknown archive format: .htm
+    Skipping link http://www.python.org/doc/current/lib/module-time.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://www.python.org/doc/current/lib/datetime-tzinfo.html (from http://labix.org/python-dateutil); unknown archive format: .html
+    Skipping link http://labix.org/CategoryProject (from http://labix.org/python-dateutil); not a file
+    Skipping link http://labix.org/GustavoNiemeyer (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/ (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/Python (from http://labix.org/python-dateutil); not a file
+    Skipping link http://moinmo.in/GPL (from http://labix.org/python-dateutil); not a file
+    Skipping link http://validator.w3.org/check?uri=referer (from http://labix.org/python-dateutil); not a file
+  Using version 1.4.1 (newest of versions: 1.4.1, 1.4.1, 1.4.1, 1.4.1, 1.4.1, 1.4.1, 1.4.1, 1.4.1, 1.4.1, 1.4.1, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.4, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.3, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.2, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.1, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0, 1.0)
+  Downloading from URL http://labix.org/download/python-dateutil/python-dateutil-1.4.1.tar.gz (from http://labix.org/python-dateutil)
+  Running setup.py egg_info for package python-dateutil
+    running egg_info
+    creating pip-egg-info/python_dateutil.egg-info
+    writing pip-egg-info/python_dateutil.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/python_dateutil.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/python_dateutil.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/python_dateutil.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/python_dateutil.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'pip-egg-info/python_dateutil.egg-info/SOURCES.txt'
+  Source in ./build/python-dateutil has version 1.4.1, which satisfies requirement python-dateutil
+Installing collected packages: python-dateutil
+  Running setup.py install for python-dateutil
+    Running command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/python-dateutil/setup.py'; execfile('/home/maruen/Projects/startthedark/build/python-dateutil/setup.py')" install --single-version-externally-managed --record /tmp/pip-9DO_MS-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-i686-2.6
+    creating build/lib.linux-i686-2.6/dateutil
+    copying dateutil/parser.py -> build/lib.linux-i686-2.6/dateutil
+    copying dateutil/rrule.py -> build/lib.linux-i686-2.6/dateutil
+    copying dateutil/tzwin.py -> build/lib.linux-i686-2.6/dateutil
+    copying dateutil/__init__.py -> build/lib.linux-i686-2.6/dateutil
+    copying dateutil/tz.py -> build/lib.linux-i686-2.6/dateutil
+    copying dateutil/relativedelta.py -> build/lib.linux-i686-2.6/dateutil
+    copying dateutil/easter.py -> build/lib.linux-i686-2.6/dateutil
+    creating build/lib.linux-i686-2.6/dateutil/zoneinfo
+    copying dateutil/zoneinfo/__init__.py -> build/lib.linux-i686-2.6/dateutil/zoneinfo
+    running egg_info
+    writing python_dateutil.egg-info/PKG-INFO
+    writing top-level names to python_dateutil.egg-info/top_level.txt
+    writing dependency_links to python_dateutil.egg-info/dependency_links.txt
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'python_dateutil.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    writing manifest file 'python_dateutil.egg-info/SOURCES.txt'
+    copying dateutil/zoneinfo/zoneinfo-2008e.tar.gz -> build/lib.linux-i686-2.6/dateutil/zoneinfo
+    running install_lib
+    creating /usr/local/lib/python2.6/dist-packages/dateutil
+    error: could not create '/usr/local/lib/python2.6/dist-packages/dateutil': Permission denied
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/python-dateutil/setup.py'; execfile('/home/maruen/Projects/startthedark/build/python-dateutil/setup.py')" install --single-version-externally-managed --record /tmp/pip-9DO_MS-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-i686-2.6
+
+creating build/lib.linux-i686-2.6/dateutil
+
+copying dateutil/parser.py -> build/lib.linux-i686-2.6/dateutil
+
+copying dateutil/rrule.py -> build/lib.linux-i686-2.6/dateutil
+
+copying dateutil/tzwin.py -> build/lib.linux-i686-2.6/dateutil
+
+copying dateutil/__init__.py -> build/lib.linux-i686-2.6/dateutil
+
+copying dateutil/tz.py -> build/lib.linux-i686-2.6/dateutil
+
+copying dateutil/relativedelta.py -> build/lib.linux-i686-2.6/dateutil
+
+copying dateutil/easter.py -> build/lib.linux-i686-2.6/dateutil
+
+creating build/lib.linux-i686-2.6/dateutil/zoneinfo
+
+copying dateutil/zoneinfo/__init__.py -> build/lib.linux-i686-2.6/dateutil/zoneinfo
+
+running egg_info
+
+writing python_dateutil.egg-info/PKG-INFO
+
+writing top-level names to python_dateutil.egg-info/top_level.txt
+
+writing dependency_links to python_dateutil.egg-info/dependency_links.txt
+
+warning: manifest_maker: standard file '-c' not found
+
+reading manifest file 'python_dateutil.egg-info/SOURCES.txt'
+
+reading manifest template 'MANIFEST.in'
+
+writing manifest file 'python_dateutil.egg-info/SOURCES.txt'
+
+copying dateutil/zoneinfo/zoneinfo-2008e.tar.gz -> build/lib.linux-i686-2.6/dateutil/zoneinfo
+
+running install_lib
+
+creating /usr/local/lib/python2.6/dist-packages/dateutil
+
+error: could not create '/usr/local/lib/python2.6/dist-packages/dateutil': Permission denied
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/python-dateutil/setup.py'; execfile('/home/maruen/Projects/startthedark/build/python-dateutil/setup.py')" install --single-version-externally-managed --record /tmp/pip-9DO_MS-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 410, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 2017, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1515, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/python-dateutil/setup.py'; execfile('/home/maruen/Projects/startthedark/build/python-dateutil/setup.py')" install --single-version-externally-managed --record /tmp/pip-9DO_MS-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include failed with error code 1
+------------------------------------------------------------
+/usr/bin/pip run on Fri Feb 19 04:19:33 2010
+Downloading/unpacking hashlib
+  Getting page http://pypi.python.org/simple/hashlib
+  URLs to search for versions for hashlib:
+  * http://pypi.python.org/simple/hashlib
+  Getting page http://code.krypto.org/python/hashlib/
+  Analyzing links from page http://pypi.python.org/simple/hashlib/
+    Found link http://pypi.python.org/packages/source/h/hashlib/hashlib-20081119.zip#md5=46e59db6d5cac34b3344ef0c30d0897f (from http://pypi.python.org/simple/hashlib/), version: 20081119
+    Skipping link http://pypi.python.org/packages/2.4/h/hashlib/hashlib-20060408a.win32-py2.4-openssl.exe#md5=dd29c76e99aea4f764d2a059547e4d8e (from http://pypi.python.org/simple/hashlib/); unknown archive format: .exe
+    Skipping link http://code.krypto.org/python/hashlib/ (from http://pypi.python.org/simple/hashlib/); not a file
+  Analyzing links from page http://code.krypto.org/python/hashlib/
+    Skipping link http://code.krypto.org/style.css (from http://code.krypto.org/python/hashlib/); unknown archive format: .css
+    Skipping link http://code.krypto.org/favicon.ico (from http://code.krypto.org/python/hashlib/); unknown archive format: .ico
+    Found link http://code.krypto.org/python/hashlib/hashlib-20081119.tar.gz (from http://code.krypto.org/python/hashlib/), version: 20081119
+    Found link http://code.krypto.org/python/hashlib/hashlib-20081119.zip (from http://code.krypto.org/python/hashlib/), version: 20081119
+    Skipping link http://code.krypto.org/python/hashlib/hashlib-20060408a.win32-py2.4-openssl.exe (from http://code.krypto.org/python/hashlib/); unknown archive format: .exe
+    Skipping link http://code.krypto.org/python/hashlib/hashlib-20060408a.win32-py2.4-builtin.exe (from http://code.krypto.org/python/hashlib/); unknown archive format: .exe
+    Skipping link http://docs.python.org/library/hashlib.html (from http://code.krypto.org/python/hashlib/); unknown archive format: .html
+    Skipping link http://code.krypto.org/python/hashlib/LICENSE (from http://code.krypto.org/python/hashlib/); not a file
+    Skipping link http://www.openssl.org/ (from http://code.krypto.org/python/hashlib/); not a file
+  Analyzing links from page http://code.krypto.org/python/hashlib/
+    Skipping link http://code.krypto.org/style.css (from http://code.krypto.org/python/hashlib/); unknown archive format: .css
+    Skipping link http://code.krypto.org/favicon.ico (from http://code.krypto.org/python/hashlib/); unknown archive format: .ico
+    Found link http://code.krypto.org/python/hashlib/hashlib-20081119.tar.gz (from http://code.krypto.org/python/hashlib/), version: 20081119
+    Found link http://code.krypto.org/python/hashlib/hashlib-20081119.zip (from http://code.krypto.org/python/hashlib/), version: 20081119
+    Skipping link http://code.krypto.org/python/hashlib/hashlib-20060408a.win32-py2.4-openssl.exe (from http://code.krypto.org/python/hashlib/); unknown archive format: .exe
+    Skipping link http://code.krypto.org/python/hashlib/hashlib-20060408a.win32-py2.4-builtin.exe (from http://code.krypto.org/python/hashlib/); unknown archive format: .exe
+    Skipping link http://docs.python.org/library/hashlib.html (from http://code.krypto.org/python/hashlib/); unknown archive format: .html
+    Skipping link http://code.krypto.org/python/hashlib/LICENSE (from http://code.krypto.org/python/hashlib/); not a file
+    Skipping link http://www.openssl.org/ (from http://code.krypto.org/python/hashlib/); not a file
+  Using version 20081119 (newest of versions: 20081119, 20081119, 20081119, 20081119, 20081119)
+  Downloading hashlib-20081119.tar.gz
+  Downloading from URL http://code.krypto.org/python/hashlib/hashlib-20081119.tar.gz (from http://code.krypto.org/python/hashlib/)
+  Running setup.py egg_info for package hashlib
+    running egg_info
+    creating pip-egg-info/hashlib.egg-info
+    writing pip-egg-info/hashlib.egg-info/PKG-INFO
+    writing top-level names to pip-egg-info/hashlib.egg-info/top_level.txt
+    writing dependency_links to pip-egg-info/hashlib.egg-info/dependency_links.txt
+    writing manifest file 'pip-egg-info/hashlib.egg-info/SOURCES.txt'
+    warning: manifest_maker: standard file '-c' not found
+    reading manifest file 'pip-egg-info/hashlib.egg-info/SOURCES.txt'
+    reading manifest template 'MANIFEST.in'
+    no previously-included directories found matching 'build'
+    no previously-included directories found matching 'dist'
+    no previously-included directories found matching 'RCS'
+    no previously-included directories found matching 'CVS'
+    no previously-included directories found matching '.svn'
+    writing manifest file 'pip-egg-info/hashlib.egg-info/SOURCES.txt'
+  Source in ./build/hashlib has version 20081119, which satisfies requirement hashlib
+Installing collected packages: hashlib
+  Running setup.py install for hashlib
+    Running command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/hashlib/setup.py'; execfile('/home/maruen/Projects/startthedark/build/hashlib/setup.py')" install --single-version-externally-managed --record /tmp/pip-1CiAcr-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include
+    running install
+    running build
+    running build_py
+    creating build
+    creating build/lib.linux-i686-2.6
+    copying hashlib.py -> build/lib.linux-i686-2.6
+    running build_ext
+    building '_sha' extension
+    creating build/temp.linux-i686-2.6
+    creating build/temp.linux-i686-2.6/Modules
+    gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.6 -c Modules/shamodule.c -o build/temp.linux-i686-2.6/Modules/shamodule.o
+    Modules/shamodule.c:18:20: error: Python.h: No such file or directory
+    Modules/shamodule.c:19:26: error: structmember.h: No such file or directory
+    Modules/shamodule.c:47: error: expected specifier-qualifier-list before ‘PyObject_HEAD’
+    Modules/shamodule.c:58: error: expected ‘)’ before ‘*’ token
+    Modules/shamodule.c: In function ‘SHAcopy’:
+    Modules/shamodule.c:76: error: ‘SHAobject’ has no member named ‘Endianness’
+    Modules/shamodule.c:76: error: ‘SHAobject’ has no member named ‘Endianness’
+    Modules/shamodule.c:77: error: ‘SHAobject’ has no member named ‘local’
+    Modules/shamodule.c:77: error: ‘SHAobject’ has no member named ‘local’
+    Modules/shamodule.c:78: error: ‘SHAobject’ has no member named ‘count_lo’
+    Modules/shamodule.c:78: error: ‘SHAobject’ has no member named ‘count_lo’
+    Modules/shamodule.c:79: error: ‘SHAobject’ has no member named ‘count_hi’
+    Modules/shamodule.c:79: error: ‘SHAobject’ has no member named ‘count_hi’
+    Modules/shamodule.c:80: warning: implicit declaration of function ‘memcpy’
+    Modules/shamodule.c:80: warning: incompatible implicit declaration of built-in function ‘memcpy’
+    Modules/shamodule.c:80: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:80: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:80: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:81: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:81: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:81: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c: In function ‘sha_transform’:
+    Modules/shamodule.c:164: error: ‘SHA_INT32’ undeclared (first use in this function)
+    Modules/shamodule.c:164: error: (Each undeclared identifier is reported only once
+    Modules/shamodule.c:164: error: for each function it appears in.)
+    Modules/shamodule.c:164: error: expected ‘;’ before ‘T’
+    Modules/shamodule.c:166: warning: incompatible implicit declaration of built-in function ‘memcpy’
+    Modules/shamodule.c:166: error: ‘W’ undeclared (first use in this function)
+    Modules/shamodule.c:166: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:166: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:167: warning: implicit declaration of function ‘longReverse’
+    Modules/shamodule.c:167: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:167: error: ‘SHAobject’ has no member named ‘Endianness’
+    Modules/shamodule.c:175: error: ‘A’ undeclared (first use in this function)
+    Modules/shamodule.c:175: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:176: error: ‘B’ undeclared (first use in this function)
+    Modules/shamodule.c:176: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:177: error: ‘C’ undeclared (first use in this function)
+    Modules/shamodule.c:177: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:178: error: ‘D’ undeclared (first use in this function)
+    Modules/shamodule.c:178: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:179: error: ‘E’ undeclared (first use in this function)
+    Modules/shamodule.c:179: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:180: error: ‘WP’ undeclared (first use in this function)
+    Modules/shamodule.c:182: error: ‘T’ undeclared (first use in this function)
+    Modules/shamodule.c:190: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:191: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:192: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:193: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:194: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c: In function ‘sha_init’:
+    Modules/shamodule.c:224: error: ‘SHAobject’ has no member named ‘Endianness’
+    Modules/shamodule.c:224: error: ‘SHAobject’ has no member named ‘Endianness’
+    Modules/shamodule.c:226: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:227: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:228: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:229: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:230: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:231: error: ‘SHAobject’ has no member named ‘count_lo’
+    Modules/shamodule.c:232: error: ‘SHAobject’ has no member named ‘count_hi’
+    Modules/shamodule.c:233: error: ‘SHAobject’ has no member named ‘local’
+    Modules/shamodule.c: In function ‘sha_update’:
+    Modules/shamodule.c:242: error: ‘SHA_INT32’ undeclared (first use in this function)
+    Modules/shamodule.c:242: error: expected ‘;’ before ‘clo’
+    Modules/shamodule.c:244: error: ‘clo’ undeclared (first use in this function)
+    Modules/shamodule.c:244: error: ‘SHAobject’ has no member named ‘count_lo’
+    Modules/shamodule.c:244: error: expected ‘)’ before ‘count’
+    Modules/shamodule.c:245: error: ‘SHAobject’ has no member named ‘count_lo’
+    Modules/shamodule.c:246: error: ‘SHAobject’ has no member named ‘count_hi’
+    Modules/shamodule.c:248: error: ‘SHAobject’ has no member named ‘count_lo’
+    Modules/shamodule.c:249: error: ‘SHAobject’ has no member named ‘count_hi’
+    Modules/shamodule.c:249: error: expected ‘;’ before ‘count’
+    Modules/shamodule.c:250: error: ‘SHAobject’ has no member named ‘local’
+    Modules/shamodule.c:251: error: ‘SHAobject’ has no member named ‘local’
+    Modules/shamodule.c:255: warning: incompatible implicit declaration of built-in function ‘memcpy’
+    Modules/shamodule.c:255: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:255: error: ‘SHAobject’ has no member named ‘local’
+    Modules/shamodule.c:258: error: ‘SHAobject’ has no member named ‘local’
+    Modules/shamodule.c:259: error: ‘SHAobject’ has no member named ‘local’
+    Modules/shamodule.c:267: warning: incompatible implicit declaration of built-in function ‘memcpy’
+    Modules/shamodule.c:267: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:272: warning: incompatible implicit declaration of built-in function ‘memcpy’
+    Modules/shamodule.c:272: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:273: error: ‘SHAobject’ has no member named ‘local’
+    Modules/shamodule.c: In function ‘sha_final’:
+    Modules/shamodule.c:282: error: ‘SHA_INT32’ undeclared (first use in this function)
+    Modules/shamodule.c:282: error: expected ‘;’ before ‘lo_bit_count’
+    Modules/shamodule.c:284: error: ‘lo_bit_count’ undeclared (first use in this function)
+    Modules/shamodule.c:284: error: ‘SHAobject’ has no member named ‘count_lo’
+    Modules/shamodule.c:285: error: ‘hi_bit_count’ undeclared (first use in this function)
+    Modules/shamodule.c:285: error: ‘SHAobject’ has no member named ‘count_hi’
+    Modules/shamodule.c:287: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:289: warning: implicit declaration of function ‘memset’
+    Modules/shamodule.c:289: warning: incompatible implicit declaration of built-in function ‘memset’
+    Modules/shamodule.c:289: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:292: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:295: warning: incompatible implicit declaration of built-in function ‘memset’
+    Modules/shamodule.c:295: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:301: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:302: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:303: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:304: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:305: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:306: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:307: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:308: error: ‘SHAobject’ has no member named ‘data’
+    Modules/shamodule.c:310: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:311: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:312: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:313: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:314: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:315: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:316: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:317: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:318: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:319: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:320: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:321: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:322: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:323: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:324: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:325: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:326: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:327: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:328: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c:329: error: ‘SHAobject’ has no member named ‘digest’
+    Modules/shamodule.c: At top level:
+    Modules/shamodule.c:338: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘SHAtype’
+    Modules/shamodule.c: In function ‘newSHAobject’:
+    Modules/shamodule.c:344: warning: implicit declaration of function ‘PyObject_New’
+    Modules/shamodule.c:344: error: expected expression before ‘SHAobject’
+    Modules/shamodule.c: At top level:
+    Modules/shamodule.c:350: error: expected ‘)’ before ‘*’ token
+    Modules/shamodule.c:358: error: expected ‘)’ before string constant
+    Modules/shamodule.c:360: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+    Modules/shamodule.c:373: error: expected ‘)’ before string constant
+    Modules/shamodule.c:375: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+    Modules/shamodule.c:387: error: expected ‘)’ before string constant
+    Modules/shamodule.c:389: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+    Modules/shamodule.c:426: error: expected ‘)’ before string constant
+    Modules/shamodule.c:428: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+    Modules/shamodule.c:443: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘SHA_methods’
+    Modules/shamodule.c:451: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+    Modules/shamodule.c:457: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+    Modules/shamodule.c:463: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+    Modules/shamodule.c:469: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘SHA_getseters’
+    Modules/shamodule.c:491: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘SHAtype’
+    Modules/shamodule.c:530: error: expected ‘)’ before string constant
+    Modules/shamodule.c:534: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+    Modules/shamodule.c:565: error: array type has incomplete element type
+    Modules/shamodule.c:566: error: ‘PyCFunction’ undeclared here (not in a function)
+    Modules/shamodule.c:566: error: expected ‘}’ before ‘SHA_new’
+    Modules/shamodule.c:567: error: ‘NULL’ undeclared here (not in a function)
+    Modules/shamodule.c:576: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘init_sha’
+    error: command 'gcc' failed with exit status 1
+    Complete output from command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/hashlib/setup.py'; execfile('/home/maruen/Projects/startthedark/build/hashlib/setup.py')" install --single-version-externally-managed --record /tmp/pip-1CiAcr-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include:
+    running install
+
+running build
+
+running build_py
+
+creating build
+
+creating build/lib.linux-i686-2.6
+
+copying hashlib.py -> build/lib.linux-i686-2.6
+
+running build_ext
+
+building '_sha' extension
+
+creating build/temp.linux-i686-2.6
+
+creating build/temp.linux-i686-2.6/Modules
+
+gcc -pthread -fno-strict-aliasing -DNDEBUG -g -fwrapv -O2 -Wall -Wstrict-prototypes -fPIC -I/usr/include/python2.6 -c Modules/shamodule.c -o build/temp.linux-i686-2.6/Modules/shamodule.o
+
+Modules/shamodule.c:18:20: error: Python.h: No such file or directory
+
+Modules/shamodule.c:19:26: error: structmember.h: No such file or directory
+
+Modules/shamodule.c:47: error: expected specifier-qualifier-list before ‘PyObject_HEAD’
+
+Modules/shamodule.c:58: error: expected ‘)’ before ‘*’ token
+
+Modules/shamodule.c: In function ‘SHAcopy’:
+
+Modules/shamodule.c:76: error: ‘SHAobject’ has no member named ‘Endianness’
+
+Modules/shamodule.c:76: error: ‘SHAobject’ has no member named ‘Endianness’
+
+Modules/shamodule.c:77: error: ‘SHAobject’ has no member named ‘local’
+
+Modules/shamodule.c:77: error: ‘SHAobject’ has no member named ‘local’
+
+Modules/shamodule.c:78: error: ‘SHAobject’ has no member named ‘count_lo’
+
+Modules/shamodule.c:78: error: ‘SHAobject’ has no member named ‘count_lo’
+
+Modules/shamodule.c:79: error: ‘SHAobject’ has no member named ‘count_hi’
+
+Modules/shamodule.c:79: error: ‘SHAobject’ has no member named ‘count_hi’
+
+Modules/shamodule.c:80: warning: implicit declaration of function ‘memcpy’
+
+Modules/shamodule.c:80: warning: incompatible implicit declaration of built-in function ‘memcpy’
+
+Modules/shamodule.c:80: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:80: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:80: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:81: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:81: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:81: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c: In function ‘sha_transform’:
+
+Modules/shamodule.c:164: error: ‘SHA_INT32’ undeclared (first use in this function)
+
+Modules/shamodule.c:164: error: (Each undeclared identifier is reported only once
+
+Modules/shamodule.c:164: error: for each function it appears in.)
+
+Modules/shamodule.c:164: error: expected ‘;’ before ‘T’
+
+Modules/shamodule.c:166: warning: incompatible implicit declaration of built-in function ‘memcpy’
+
+Modules/shamodule.c:166: error: ‘W’ undeclared (first use in this function)
+
+Modules/shamodule.c:166: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:166: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:167: warning: implicit declaration of function ‘longReverse’
+
+Modules/shamodule.c:167: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:167: error: ‘SHAobject’ has no member named ‘Endianness’
+
+Modules/shamodule.c:175: error: ‘A’ undeclared (first use in this function)
+
+Modules/shamodule.c:175: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:176: error: ‘B’ undeclared (first use in this function)
+
+Modules/shamodule.c:176: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:177: error: ‘C’ undeclared (first use in this function)
+
+Modules/shamodule.c:177: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:178: error: ‘D’ undeclared (first use in this function)
+
+Modules/shamodule.c:178: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:179: error: ‘E’ undeclared (first use in this function)
+
+Modules/shamodule.c:179: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:180: error: ‘WP’ undeclared (first use in this function)
+
+Modules/shamodule.c:182: error: ‘T’ undeclared (first use in this function)
+
+Modules/shamodule.c:190: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:191: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:192: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:193: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:194: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c: In function ‘sha_init’:
+
+Modules/shamodule.c:224: error: ‘SHAobject’ has no member named ‘Endianness’
+
+Modules/shamodule.c:224: error: ‘SHAobject’ has no member named ‘Endianness’
+
+Modules/shamodule.c:226: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:227: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:228: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:229: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:230: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:231: error: ‘SHAobject’ has no member named ‘count_lo’
+
+Modules/shamodule.c:232: error: ‘SHAobject’ has no member named ‘count_hi’
+
+Modules/shamodule.c:233: error: ‘SHAobject’ has no member named ‘local’
+
+Modules/shamodule.c: In function ‘sha_update’:
+
+Modules/shamodule.c:242: error: ‘SHA_INT32’ undeclared (first use in this function)
+
+Modules/shamodule.c:242: error: expected ‘;’ before ‘clo’
+
+Modules/shamodule.c:244: error: ‘clo’ undeclared (first use in this function)
+
+Modules/shamodule.c:244: error: ‘SHAobject’ has no member named ‘count_lo’
+
+Modules/shamodule.c:244: error: expected ‘)’ before ‘count’
+
+Modules/shamodule.c:245: error: ‘SHAobject’ has no member named ‘count_lo’
+
+Modules/shamodule.c:246: error: ‘SHAobject’ has no member named ‘count_hi’
+
+Modules/shamodule.c:248: error: ‘SHAobject’ has no member named ‘count_lo’
+
+Modules/shamodule.c:249: error: ‘SHAobject’ has no member named ‘count_hi’
+
+Modules/shamodule.c:249: error: expected ‘;’ before ‘count’
+
+Modules/shamodule.c:250: error: ‘SHAobject’ has no member named ‘local’
+
+Modules/shamodule.c:251: error: ‘SHAobject’ has no member named ‘local’
+
+Modules/shamodule.c:255: warning: incompatible implicit declaration of built-in function ‘memcpy’
+
+Modules/shamodule.c:255: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:255: error: ‘SHAobject’ has no member named ‘local’
+
+Modules/shamodule.c:258: error: ‘SHAobject’ has no member named ‘local’
+
+Modules/shamodule.c:259: error: ‘SHAobject’ has no member named ‘local’
+
+Modules/shamodule.c:267: warning: incompatible implicit declaration of built-in function ‘memcpy’
+
+Modules/shamodule.c:267: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:272: warning: incompatible implicit declaration of built-in function ‘memcpy’
+
+Modules/shamodule.c:272: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:273: error: ‘SHAobject’ has no member named ‘local’
+
+Modules/shamodule.c: In function ‘sha_final’:
+
+Modules/shamodule.c:282: error: ‘SHA_INT32’ undeclared (first use in this function)
+
+Modules/shamodule.c:282: error: expected ‘;’ before ‘lo_bit_count’
+
+Modules/shamodule.c:284: error: ‘lo_bit_count’ undeclared (first use in this function)
+
+Modules/shamodule.c:284: error: ‘SHAobject’ has no member named ‘count_lo’
+
+Modules/shamodule.c:285: error: ‘hi_bit_count’ undeclared (first use in this function)
+
+Modules/shamodule.c:285: error: ‘SHAobject’ has no member named ‘count_hi’
+
+Modules/shamodule.c:287: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:289: warning: implicit declaration of function ‘memset’
+
+Modules/shamodule.c:289: warning: incompatible implicit declaration of built-in function ‘memset’
+
+Modules/shamodule.c:289: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:292: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:295: warning: incompatible implicit declaration of built-in function ‘memset’
+
+Modules/shamodule.c:295: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:301: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:302: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:303: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:304: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:305: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:306: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:307: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:308: error: ‘SHAobject’ has no member named ‘data’
+
+Modules/shamodule.c:310: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:311: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:312: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:313: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:314: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:315: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:316: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:317: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:318: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:319: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:320: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:321: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:322: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:323: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:324: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:325: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:326: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:327: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:328: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c:329: error: ‘SHAobject’ has no member named ‘digest’
+
+Modules/shamodule.c: At top level:
+
+Modules/shamodule.c:338: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘SHAtype’
+
+Modules/shamodule.c: In function ‘newSHAobject’:
+
+Modules/shamodule.c:344: warning: implicit declaration of function ‘PyObject_New’
+
+Modules/shamodule.c:344: error: expected expression before ‘SHAobject’
+
+Modules/shamodule.c: At top level:
+
+Modules/shamodule.c:350: error: expected ‘)’ before ‘*’ token
+
+Modules/shamodule.c:358: error: expected ‘)’ before string constant
+
+Modules/shamodule.c:360: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+
+Modules/shamodule.c:373: error: expected ‘)’ before string constant
+
+Modules/shamodule.c:375: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+
+Modules/shamodule.c:387: error: expected ‘)’ before string constant
+
+Modules/shamodule.c:389: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+
+Modules/shamodule.c:426: error: expected ‘)’ before string constant
+
+Modules/shamodule.c:428: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+
+Modules/shamodule.c:443: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘SHA_methods’
+
+Modules/shamodule.c:451: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+
+Modules/shamodule.c:457: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+
+Modules/shamodule.c:463: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+
+Modules/shamodule.c:469: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘SHA_getseters’
+
+Modules/shamodule.c:491: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘SHAtype’
+
+Modules/shamodule.c:530: error: expected ‘)’ before string constant
+
+Modules/shamodule.c:534: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘*’ token
+
+Modules/shamodule.c:565: error: array type has incomplete element type
+
+Modules/shamodule.c:566: error: ‘PyCFunction’ undeclared here (not in a function)
+
+Modules/shamodule.c:566: error: expected ‘}’ before ‘SHA_new’
+
+Modules/shamodule.c:567: error: ‘NULL’ undeclared here (not in a function)
+
+Modules/shamodule.c:576: error: expected ‘=’, ‘,’, ‘;’, ‘asm’ or ‘__attribute__’ before ‘init_sha’
+
+error: command 'gcc' failed with exit status 1
+
+----------------------------------------
+Command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/hashlib/setup.py'; execfile('/home/maruen/Projects/startthedark/build/hashlib/setup.py')" install --single-version-externally-managed --record /tmp/pip-1CiAcr-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include failed with error code 1
+Exception information:
+Traceback (most recent call last):
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 252, in main
+    self.run(options, args)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 410, in run
+    requirement_set.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 2017, in install
+    requirement.install(install_options)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 1515, in install
+    cwd=self.source_dir, filter_stdout=self._filter_install, show_stdout=False)
+  File "/usr/lib/python2.6/dist-packages/pip.py", line 3543, in call_subprocess
+    % (command_desc, proc.returncode))
+InstallationError: Command /usr/bin/python -c "import setuptools; __file__='/home/maruen/Projects/startthedark/build/hashlib/setup.py'; execfile('/home/maruen/Projects/startthedark/build/hashlib/setup.py')" install --single-version-externally-managed --record /tmp/pip-1CiAcr-record/install-record.txt --install-headers /home/maruen/Projects/startthedark/lib/include failed with error code 1

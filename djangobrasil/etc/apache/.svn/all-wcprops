@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/217/trunk/etc/apache
+END
+apache.conf
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/217/trunk/etc/apache/apache.conf
+END
+djangobrasil.wsgi
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/162/trunk/etc/apache/djangobrasil.wsgi
+END
